@@ -1,0 +1,137 @@
+[
+  {
+    "document_name": "Consumer Protection Act, 2019",
+    "year": 2019,
+    "type": "Primary Legislation (Central Act No. 35 of 2019)",
+    "source": "https://www.indiacode.nic.in/handle/123456789/15256",
+    "source_type": "OFFICIAL",
+    "provisions": [
+      {
+        "section_or_rule": "Section 2(10)",
+        "title": "Definition of Defect",
+        "text": "Defect means any fault, imperfection or shortcoming in the quality, quantity, potency, purity or standard which is required to be maintained by or under any law for the time being in force or under any contract, express or implied or as is claimed by the trader in any manner whatsoever in relation to any goods or product.",
+        "legal_purpose": "Defines actionable faults in physical goods and products."
+      },
+      {
+        "section_or_rule": "Section 2(11)",
+        "title": "Definition of Deficiency",
+        "text": "Deficiency means any fault, imperfection, shortcoming or inadequacy in the quality, nature and manner of performance which is required to be maintained by or under any law for the time being in force or has been undertaken to be performed by a person in pursuance of a contract or otherwise in relation to any service.",
+        "legal_purpose": "Defines actionable shortcomings in professional, commercial, or public services."
+      },
+      {
+        "section_or_rule": "Section 2(28)",
+        "title": "Definition of Misleading Advertisement",
+        "text": "Misleading advertisement in relation to any product or service means an advertisement, which falsely describes such product or service, or gives a false guarantee to, or is likely to mislead the consumers as to the nature, substance, quantity or quality of such product or service.",
+        "legal_purpose": "Prohibits deceptive sales marketing, false guarantees, or scientific misrepresentations."
+      },
+      {
+        "section_or_rule": "Section 2(47)",
+        "title": "Definition of Unfair Trade Practice",
+        "text": "Unfair trade practice means a trade practice which, for the purpose of promoting the sale, use or supply of any goods or for the provision of any service, adopts any unfair method or unfair or deceptive practice including making false or misleading representation, refusal to refund paid consideration within 30 days, or disclosing confidential personal information.",
+        "legal_purpose": "Establishes comprehensive prohibition against deceptive commercial conduct and mandatory 30-day refund rules."
+      },
+      {
+        "section_or_rule": "Section 39",
+        "title": "Findings of District Commission and Statutory Orders",
+        "text": "Where the District Commission is satisfied that the goods complained against suffer from any of the defects specified in the complaint or that any of the allegations contained in the complaint about services or unfair trade practices are proved, it shall issue an order directing the opposite party to remove defects, replace goods with defect-free items, return the price paid along with interest, or pay compensation.",
+        "legal_purpose": "Empowers District Consumer Commissions to issue binding statutory orders for refund, replacement, or damages."
+      },
+      {
+        "section_or_rule": "Section 83 & 84",
+        "title": "Product Liability Action and Manufacturer Liability",
+        "text": "A product liability action may be brought by a complainant against a product manufacturer, product service provider, or product seller for any harm caused on account of a defective product. A product manufacturer shall be liable if the product contains a manufacturing defect, design defect, or non-conformance with express warranty.",
+        "legal_purpose": "Establishes strict product liability claims against manufacturers and distributors for physical or property harm."
+      },
+      {
+        "section_or_rule": "Section 87",
+        "title": "Exceptions to Product Liability Action",
+        "text": "A product liability action cannot be brought against the product seller or manufacturer if at the time of harm the product was misused, altered, or modified by the consumer, or if the danger was obvious or commonly known.",
+        "legal_purpose": "Provides statutory defenses for manufacturers and sellers where consumer misuse or obvious danger occurred."
+      }
+    ]
+  },
+  {
+    "document_name": "Consumer Protection (E-Commerce) Rules, 2020",
+    "year": 2020,
+    "type": "Statutory Rules (G.S.R. 462(E))",
+    "source": "https://consumeraffairs.nic.in/sites/default/files/E-Commerce_Rules_2020.pdf",
+    "source_type": "OFFICIAL",
+    "provisions": [
+      {
+        "section_or_rule": "Rule 4",
+        "title": "Duties of Marketplace E-Commerce Entities",
+        "text": "Marketplace e-commerce entities shall display clear details about return, refund, exchange, delivery, shipment, modes of payment, grievance redressal mechanism, and seller details to consumers.",
+        "legal_purpose": "Mandates transparency and disclosure obligations for online marketplace platforms."
+      },
+      {
+        "section_or_rule": "Rule 5",
+        "title": "Liabilities of Marketplace E-Commerce Entities",
+        "text": "No marketplace e-commerce entity shall adopt any unfair trade practice, whether in the course of the offer on its platform or otherwise, and shall ensure that grievance officers acknowledge receipt of consumer complaints within 48 hours and redress them within one month.",
+        "legal_purpose": "Establishes grievance resolution timelines and prohibits deceptive e-commerce sales algorithms."
+      },
+      {
+        "section_or_rule": "Rule 6",
+        "title": "Duties of Sellers on Marketplace E-Commerce Platforms",
+        "text": "No seller offering goods or services through a marketplace e-commerce entity shall adopt any unfair trade practice or refuse to take back goods or refuse to refund consideration if such goods or services are defective, deficient, or spurious.",
+        "legal_purpose": "Prohibits third-party sellers on platforms from denying returns for defective or missing goods."
+      }
+    ]
+  },
+  {
+    "document_name": "Consumer Protection (Mediation) Rules, 2020",
+    "year": 2020,
+    "type": "Statutory Rules (G.S.R. 448(E))",
+    "source": "https://consumeraffairs.nic.in/sites/default/files/Mediation_Rules_2020.pdf",
+    "source_type": "OFFICIAL",
+    "provisions": [
+      {
+        "section_or_rule": "Rule 3 & 4",
+        "title": "Matters Not to be Referred to Mediation",
+        "text": "Specifies consumer disputes involving serious fraud, fabrication of documents, forgery, or criminal offenses that cannot be referred to voluntary mediation cells attached to Consumer Commissions.",
+        "legal_purpose": "Establishes legal boundaries for pre-litigation consumer dispute settlement."
+      },
+      {
+        "section_or_rule": "Rule 5",
+        "title": "Procedure for Mediation Settlement",
+        "text": "Mandates that mediated settlement agreements signed by consumer parties shall be reduced to writing and submitted to the District, State, or National Commission for passing a final consent decree.",
+        "legal_purpose": "Enforces legal enforceability of pre-trial consumer dispute settlements."
+      }
+    ]
+  },
+  {
+    "document_name": "Consumer Protection (Consumer Disputes Redressal Commissions) Rules, 2020",
+    "year": 2020,
+    "type": "Statutory Rules (G.S.R. 449(E))",
+    "source": "https://consumeraffairs.nic.in/sites/default/files/CDRC_Rules_2020.pdf",
+    "source_type": "OFFICIAL",
+    "provisions": [
+      {
+        "section_or_rule": "Rule 3 & 4",
+        "title": "Pecuniary Jurisdiction Limits",
+        "text": "Defines the financial limits of complaints for District Commissions (up to ₹50 Lakhs), State Commissions (₹50 Lakhs to ₹2 Crores), and National Commission (exceeding ₹2 Crores).",
+        "legal_purpose": "Establishes clear statutory forum jurisdiction for filing consumer complaints."
+      },
+      {
+        "section_or_rule": "Rule 7",
+        "title": "Deposit of Mandatory Appeal Amount",
+        "text": "Requires an appellant filing an appeal against a District Commission order before a State Commission to deposit 50% of the awarded amount or ₹25,000, whichever is less.",
+        "legal_purpose": "Prevents frivolous appeals by opposite parties seeking to delay payment of consumer relief."
+      }
+    ]
+  },
+  {
+    "document_name": "Consumer Protection (Direct Selling) Rules, 2021",
+    "year": 2021,
+    "type": "Statutory Rules (G.S.R. 889(E))",
+    "source": "https://consumeraffairs.nic.in/direct-selling-rules-2021",
+    "source_type": "OFFICIAL",
+    "provisions": [
+      {
+        "section_or_rule": "Rule 5 & 6",
+        "title": "Obligations of Direct Selling Entities and Direct Sellers",
+        "text": "Prohibits pyramid schemes, money circulation schemes, and mandates mandatory cooling-off periods and refund rights for direct sales to consumers.",
+        "legal_purpose": "Protects consumers against multi-level marketing (MLM) fraud and forced non-refundable product packages."
+      }
+    ]
+  }
+]

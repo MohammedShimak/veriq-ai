@@ -1,0 +1,1190 @@
+[
+  {
+    "eval_id": "triage_hf_0175",
+    "category": "Defective Product",
+    "difficulty": "straightforward",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "prediction": {
+      "predicted_outcome": "Inconclusive",
+      "raw_assessment": "Inconclusive / Insufficient Evidence",
+      "predicted_sections": [],
+      "predicted_relief": "No specific relief was requested in the case.",
+      "confidence": 0.5
+    },
+    "grounding_reports": {
+      "support_layer1": {
+        "valid": true,
+        "citation_errors": [],
+        "unsupported_claims": [],
+        "fabricated_sources": [],
+        "warnings": []
+      },
+      "oppose_layer1": {
+        "valid": true,
+        "citation_errors": [],
+        "unsupported_claims": [],
+        "fabricated_sources": [],
+        "warnings": []
+      },
+      "support_semantic": {
+        "agent": "Support",
+        "total_claims_checked": 5,
+        "results": [
+          {
+            "claim_sentence": "The failure of the product constitutes a direct product defect under Section 2(10) and service deficiency under Section 2(11).",
+            "cited_section": "Section 2(10)",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          },
+          {
+            "claim_sentence": "Furthermore, the respondent's refusal to issue a refund violates the duty to take back defective goods under Rule 6 of the Consumer Protection (E-Commerce) Rules, 2020.",
+            "cited_section": "Rule 6",
+            "retrieved_text_snippet": "[Consumer Protection (E-Commerce) Rules, 2020 - Rule 6]\nNo seller offering goods or services through a marketplace e-commerce entity shall adopt any u...",
+            "verdict": "entailed",
+            "confidence": 1,
+            "explanation": "The statutory text explicitly prohibits a marketplace e-commerce seller from refusing to take back goods or refund consideration if the goods are defective, directly supporting the claim that a refusal to issue a refund for defective goods violates Rule 6."
+          },
+          {
+            "claim_sentence": "Section 2(10) Defect",
+            "cited_section": "Section 2(10)",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          },
+          {
+            "claim_sentence": "Section 2(11) Deficiency",
+            "cited_section": "Section 2(11)",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          },
+          {
+            "claim_sentence": "Rule 6 of E-Commerce Rules, 2020",
+            "cited_section": "Rule 6",
+            "retrieved_text_snippet": "[Consumer Protection (E-Commerce) Rules, 2020 - Rule 6]\nNo seller offering goods or services through a marketplace e-commerce entity shall adopt any u...",
+            "verdict": "entailed",
+            "confidence": 1,
+            "explanation": "The claim correctly identifies and cites Rule 6 of the Consumer Protection (E-Commerce) Rules, 2020, as provided in the statutory text."
+          }
+        ],
+        "summary": {
+          "entailed": 2,
+          "contradicted": 0,
+          "unsupported": 3
+        }
+      },
+      "oppose_semantic": {
+        "agent": "Oppose",
+        "total_claims_checked": 2,
+        "results": [
+          {
+            "claim_sentence": "The consumer has failed to provide a valid purchase invoice or an authorized service inspection report to substantiate the claim of a manufacturing defect under Section 2(10).",
+            "cited_section": "Section 2(10)",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          },
+          {
+            "claim_sentence": "Section 87 Product Liability Exceptions",
+            "cited_section": "Section 87",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          }
+        ],
+        "summary": {
+          "entailed": 0,
+          "contradicted": 0,
+          "unsupported": 2
+        }
+      },
+      "judge_semantic": {
+        "agent": "Judge",
+        "total_claims_checked": 0,
+        "results": [],
+        "summary": {
+          "entailed": 0,
+          "contradicted": 0,
+          "unsupported": 0
+        }
+      }
+    },
+    "latencyMs": 58057
+  },
+  {
+    "eval_id": "triage_hf_0505",
+    "category": "Defective Product",
+    "difficulty": "straightforward",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "prediction": {
+      "predicted_outcome": "Inconclusive",
+      "raw_assessment": "Inconclusive / Insufficient Evidence",
+      "predicted_sections": [],
+      "predicted_relief": "No specific relief was requested in the case.",
+      "confidence": 0.4
+    },
+    "grounding_reports": {
+      "support_layer1": {
+        "valid": true,
+        "citation_errors": [],
+        "unsupported_claims": [],
+        "fabricated_sources": [],
+        "warnings": []
+      },
+      "oppose_layer1": {
+        "valid": true,
+        "citation_errors": [],
+        "unsupported_claims": [],
+        "fabricated_sources": [],
+        "warnings": []
+      },
+      "support_semantic": {
+        "agent": "Support",
+        "total_claims_checked": 0,
+        "results": [],
+        "summary": {
+          "entailed": 0,
+          "contradicted": 0,
+          "unsupported": 0
+        }
+      },
+      "oppose_semantic": {
+        "agent": "Oppose",
+        "total_claims_checked": 0,
+        "results": [],
+        "summary": {
+          "entailed": 0,
+          "contradicted": 0,
+          "unsupported": 0
+        }
+      },
+      "judge_semantic": {
+        "agent": "Judge",
+        "total_claims_checked": 1,
+        "results": [
+          {
+            "claim_sentence": "Adjudicated under Section 39.",
+            "cited_section": "Section 39",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          }
+        ],
+        "summary": {
+          "entailed": 0,
+          "contradicted": 0,
+          "unsupported": 1
+        }
+      }
+    },
+    "latencyMs": 54512
+  },
+  {
+    "eval_id": "triage_hf_0556",
+    "category": "Defective Product",
+    "difficulty": "straightforward",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "prediction": {
+      "predicted_outcome": "Inconclusive",
+      "raw_assessment": "Inconclusive / Insufficient Evidence",
+      "predicted_sections": [],
+      "predicted_relief": "No specific relief was requested in the case.",
+      "confidence": 0.4
+    },
+    "grounding_reports": {
+      "support_layer1": {
+        "valid": true,
+        "citation_errors": [],
+        "unsupported_claims": [],
+        "fabricated_sources": [],
+        "warnings": []
+      },
+      "oppose_layer1": {
+        "valid": true,
+        "citation_errors": [],
+        "unsupported_claims": [],
+        "fabricated_sources": [],
+        "warnings": []
+      },
+      "support_semantic": {
+        "agent": "Support",
+        "total_claims_checked": 0,
+        "results": [],
+        "summary": {
+          "entailed": 0,
+          "contradicted": 0,
+          "unsupported": 0
+        }
+      },
+      "oppose_semantic": {
+        "agent": "Oppose",
+        "total_claims_checked": 0,
+        "results": [],
+        "summary": {
+          "entailed": 0,
+          "contradicted": 0,
+          "unsupported": 0
+        }
+      },
+      "judge_semantic": {
+        "agent": "Judge",
+        "total_claims_checked": 1,
+        "results": [
+          {
+            "claim_sentence": "Adjudicated under Section 39.",
+            "cited_section": "Section 39",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          }
+        ],
+        "summary": {
+          "entailed": 0,
+          "contradicted": 0,
+          "unsupported": 1
+        }
+      }
+    },
+    "latencyMs": 51976
+  },
+  {
+    "eval_id": "sc_ncdrc_1995_a7358e",
+    "category": "Defective Product",
+    "difficulty": "straightforward",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "prediction": {
+      "predicted_outcome": "Inconclusive",
+      "raw_assessment": "Inconclusive / Insufficient Evidence",
+      "predicted_sections": [],
+      "predicted_relief": "No specific relief was requested in the case.",
+      "confidence": 0.5
+    },
+    "grounding_reports": {
+      "support_layer1": {
+        "valid": true,
+        "citation_errors": [],
+        "unsupported_claims": [],
+        "fabricated_sources": [],
+        "warnings": []
+      },
+      "oppose_layer1": {
+        "valid": true,
+        "citation_errors": [],
+        "unsupported_claims": [],
+        "fabricated_sources": [],
+        "warnings": []
+      },
+      "support_semantic": {
+        "agent": "Support",
+        "total_claims_checked": 4,
+        "results": [
+          {
+            "claim_sentence": "The failure of the product constitutes a clear product defect under Section 2(10) and a deficiency in service under Section 2(11), entitling the consumer to appropriate orders under Section 39.",
+            "cited_section": "Section 2(10)",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          },
+          {
+            "claim_sentence": "Furthermore, refusing to address this issue violates the seller duties outlined in Rule 6 of the Consumer Protection (E-Commerce) Rules, 2020.",
+            "cited_section": "Rule 6",
+            "retrieved_text_snippet": "[Consumer Protection (E-Commerce) Rules, 2020 - Rule 6]\nNo seller offering goods or services through a marketplace e-commerce entity shall adopt any u...",
+            "verdict": "entailed",
+            "confidence": 1,
+            "explanation": "Rule 6 explicitly prohibits sellers on a marketplace e-commerce entity from refusing to take back goods or refund consideration for defective, deficient, or spurious goods, which directly supports the claim that refusing to address such an issue violates these seller duties."
+          },
+          {
+            "claim_sentence": "Section 2(10) Defect",
+            "cited_section": "Section 2(10)",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          },
+          {
+            "claim_sentence": "Section 2(11) Deficiency",
+            "cited_section": "Section 2(11)",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          }
+        ],
+        "summary": {
+          "entailed": 1,
+          "contradicted": 0,
+          "unsupported": 3
+        }
+      },
+      "oppose_semantic": {
+        "agent": "Oppose",
+        "total_claims_checked": 2,
+        "results": [
+          {
+            "claim_sentence": "Existence of Manufacturing Defect under Section 2(10)",
+            "cited_section": "Section 2(10)",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          },
+          {
+            "claim_sentence": "Section 87 Product Liability Exceptions",
+            "cited_section": "Section 87",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          }
+        ],
+        "summary": {
+          "entailed": 0,
+          "contradicted": 0,
+          "unsupported": 2
+        }
+      },
+      "judge_semantic": {
+        "agent": "Judge",
+        "total_claims_checked": 1,
+        "results": [
+          {
+            "claim_sentence": "While Rule 6 of the Consumer Protection (E-Commerce) Rules, 2020 prohibits refusing returns for defective goods, crucial proof of purchase and technical inspection reports are missing.",
+            "cited_section": "Rule 6",
+            "retrieved_text_snippet": "[Consumer Protection (E-Commerce) Rules, 2020 - Rule 6]\nNo seller offering goods or services through a marketplace e-commerce entity shall adopt any u...",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "While Rule 6 prohibits refusing returns for defective goods, the statutory text contains no mention of proof of purchase or technical inspection reports."
+          }
+        ],
+        "summary": {
+          "entailed": 0,
+          "contradicted": 0,
+          "unsupported": 1
+        }
+      }
+    },
+    "latencyMs": 58672
+  },
+  {
+    "eval_id": "triage_hf_0592",
+    "category": "Defective Product",
+    "difficulty": "straightforward",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "prediction": {
+      "predicted_outcome": "Inconclusive",
+      "raw_assessment": "Inconclusive / Insufficient Evidence",
+      "predicted_sections": [],
+      "predicted_relief": "No specific relief was requested in the case.",
+      "confidence": 0.5
+    },
+    "grounding_reports": {
+      "support_layer1": {
+        "valid": true,
+        "citation_errors": [],
+        "unsupported_claims": [],
+        "fabricated_sources": [],
+        "warnings": []
+      },
+      "oppose_layer1": {
+        "valid": true,
+        "citation_errors": [],
+        "unsupported_claims": [],
+        "fabricated_sources": [],
+        "warnings": []
+      },
+      "support_semantic": {
+        "agent": "Support",
+        "total_claims_checked": 5,
+        "results": [
+          {
+            "claim_sentence": "The failure of the product after purchase amounts to a manufacturing defect under Section 2(10) and a deficiency in service under Section 2(11) of the Consumer Protection Act, 2019.",
+            "cited_section": "Section 2(10)",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          },
+          {
+            "claim_sentence": "The opposite party is legally bound under Section 39 to rectify this failure and compensate the consumer for financial loss and mental agony.",
+            "cited_section": "Section 39",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          },
+          {
+            "claim_sentence": "Section 2(10) Defect",
+            "cited_section": "Section 2(10)",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          },
+          {
+            "claim_sentence": "Section 2(11) Deficiency",
+            "cited_section": "Section 2(11)",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          },
+          {
+            "claim_sentence": "Section 39 Orders",
+            "cited_section": "Section 39",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          }
+        ],
+        "summary": {
+          "entailed": 0,
+          "contradicted": 0,
+          "unsupported": 5
+        }
+      },
+      "oppose_semantic": {
+        "agent": "Oppose",
+        "total_claims_checked": 3,
+        "results": [
+          {
+            "claim_sentence": "The complainant has failed to provide any expert technical inspection report or job sheets to substantiate the claim of a manufacturing defect under Section 2(10).",
+            "cited_section": "Section 2(10)",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          },
+          {
+            "claim_sentence": "Section 87 Product Liability Exceptions",
+            "cited_section": "Section 87",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          },
+          {
+            "claim_sentence": "Section 2(10) Defect",
+            "cited_section": "Section 2(10)",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          }
+        ],
+        "summary": {
+          "entailed": 0,
+          "contradicted": 0,
+          "unsupported": 3
+        }
+      },
+      "judge_semantic": {
+        "agent": "Judge",
+        "total_claims_checked": 0,
+        "results": [],
+        "summary": {
+          "entailed": 0,
+          "contradicted": 0,
+          "unsupported": 0
+        }
+      }
+    },
+    "latencyMs": 60181
+  },
+  {
+    "eval_id": "triage_hf_0154",
+    "category": "Defective Product",
+    "difficulty": "straightforward",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "prediction": {
+      "predicted_outcome": "Inconclusive",
+      "raw_assessment": "Inconclusive / Insufficient Evidence",
+      "predicted_sections": [],
+      "predicted_relief": "No specific relief was requested in the case.",
+      "confidence": 0.5
+    },
+    "grounding_reports": {
+      "support_layer1": {
+        "valid": true,
+        "citation_errors": [],
+        "unsupported_claims": [],
+        "fabricated_sources": [],
+        "warnings": []
+      },
+      "oppose_layer1": {
+        "valid": true,
+        "citation_errors": [],
+        "unsupported_claims": [],
+        "fabricated_sources": [],
+        "warnings": []
+      },
+      "support_semantic": {
+        "agent": "Support",
+        "total_claims_checked": 5,
+        "results": [
+          {
+            "claim_sentence": "The respondent supplied a substandard product and refused to rectify the issue, constituting a clear defect under Section 2(10) and a deficiency in service under Section 2(11) of the Act.",
+            "cited_section": "Section 2(10)",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          },
+          {
+            "claim_sentence": "(2021) 4 SCC 300, supplying malfunctioning goods entitles the consumer to complete relief under Section 39.",
+            "cited_section": "Section 39",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          },
+          {
+            "claim_sentence": "Section 2(10) Defect",
+            "cited_section": "Section 2(10)",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          },
+          {
+            "claim_sentence": "Section 2(11) Deficiency",
+            "cited_section": "Section 2(11)",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          },
+          {
+            "claim_sentence": "Section 39 Orders",
+            "cited_section": "Section 39",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          }
+        ],
+        "summary": {
+          "entailed": 0,
+          "contradicted": 0,
+          "unsupported": 5
+        }
+      },
+      "oppose_semantic": {
+        "agent": "Oppose",
+        "total_claims_checked": 2,
+        "results": [
+          {
+            "claim_sentence": "The consumer has failed to provide any independent technical inspection report to prove an inherent manufacturing defect under Section 87.",
+            "cited_section": "Section 87",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          },
+          {
+            "claim_sentence": "Section 87 Product Liability Exceptions",
+            "cited_section": "Section 87",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          }
+        ],
+        "summary": {
+          "entailed": 0,
+          "contradicted": 0,
+          "unsupported": 2
+        }
+      },
+      "judge_semantic": {
+        "agent": "Judge",
+        "total_claims_checked": 0,
+        "results": [],
+        "summary": {
+          "entailed": 0,
+          "contradicted": 0,
+          "unsupported": 0
+        }
+      }
+    },
+    "latencyMs": 60336
+  },
+  {
+    "eval_id": "triage_hf_0438",
+    "category": "Defective Product",
+    "difficulty": "straightforward",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "prediction": {
+      "predicted_outcome": "Inconclusive",
+      "raw_assessment": "Inconclusive / Insufficient Evidence",
+      "predicted_sections": [],
+      "predicted_relief": "No specific relief was requested in the case.",
+      "confidence": 0.5
+    },
+    "grounding_reports": {
+      "support_layer1": {
+        "valid": true,
+        "citation_errors": [],
+        "unsupported_claims": [],
+        "fabricated_sources": [],
+        "warnings": []
+      },
+      "oppose_layer1": {
+        "valid": true,
+        "citation_errors": [],
+        "unsupported_claims": [],
+        "fabricated_sources": [],
+        "warnings": []
+      },
+      "support_semantic": {
+        "agent": "Support",
+        "total_claims_checked": 4,
+        "results": [
+          {
+            "claim_sentence": "The opposite party committed a clear breach of service obligations under Section 2(11) Deficiency by failing to deliver standard goods.",
+            "cited_section": "Section 2(11)",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          },
+          {
+            "claim_sentence": "Furthermore, under Section 39 Orders, the commission holds the complete statutory authority to mandate a full refund and compensation.",
+            "cited_section": "Section 39",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          },
+          {
+            "claim_sentence": "Section 2(11) Deficiency",
+            "cited_section": "Section 2(11)",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          },
+          {
+            "claim_sentence": "Section 39 Orders",
+            "cited_section": "Section 39",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          }
+        ],
+        "summary": {
+          "entailed": 0,
+          "contradicted": 0,
+          "unsupported": 4
+        }
+      },
+      "oppose_semantic": {
+        "agent": "Oppose",
+        "total_claims_checked": 2,
+        "results": [
+          {
+            "claim_sentence": "The complainant has failed to produce valid purchase invoices, service logs, or expert technical reports to substantiate any manufacturing defect under Section 2(10).",
+            "cited_section": "Section 2(10)",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          },
+          {
+            "claim_sentence": "Section 87 Product Liability Exceptions",
+            "cited_section": "Section 87",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          }
+        ],
+        "summary": {
+          "entailed": 0,
+          "contradicted": 0,
+          "unsupported": 2
+        }
+      },
+      "judge_semantic": {
+        "agent": "Judge",
+        "total_claims_checked": 0,
+        "results": [],
+        "summary": {
+          "entailed": 0,
+          "contradicted": 0,
+          "unsupported": 0
+        }
+      }
+    },
+    "latencyMs": 58866
+  },
+  {
+    "eval_id": "triage_hf_0605",
+    "category": "Defective Product",
+    "difficulty": "straightforward",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "prediction": {
+      "predicted_outcome": "Inconclusive",
+      "raw_assessment": "Inconclusive / Insufficient Evidence",
+      "predicted_sections": [],
+      "predicted_relief": "No specific relief was requested in the case.",
+      "confidence": 0.5
+    },
+    "grounding_reports": {
+      "support_layer1": {
+        "valid": true,
+        "citation_errors": [],
+        "unsupported_claims": [],
+        "fabricated_sources": [],
+        "warnings": []
+      },
+      "oppose_layer1": {
+        "valid": true,
+        "citation_errors": [],
+        "unsupported_claims": [],
+        "fabricated_sources": [],
+        "warnings": []
+      },
+      "support_semantic": {
+        "agent": "Support",
+        "total_claims_checked": 5,
+        "results": [
+          {
+            "claim_sentence": "The failure of the purchased product constitutes a clear 'Defect' under Section 2(10) of the Consumer Protection Act, 2019.",
+            "cited_section": "Section 2(10)",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          },
+          {
+            "claim_sentence": "Furthermore, the respondent's refusal to provide a proper remedy amounts to a 'Deficiency in Service' under Section 2(11), making them liable for relief under Section 39.",
+            "cited_section": "Section 2(11)",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          },
+          {
+            "claim_sentence": "Section 2(10) Defect",
+            "cited_section": "Section 2(10)",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          },
+          {
+            "claim_sentence": "Section 2(11) Deficiency",
+            "cited_section": "Section 2(11)",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          },
+          {
+            "claim_sentence": "Section 39 Orders",
+            "cited_section": "Section 39",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          }
+        ],
+        "summary": {
+          "entailed": 0,
+          "contradicted": 0,
+          "unsupported": 5
+        }
+      },
+      "oppose_semantic": {
+        "agent": "Oppose",
+        "total_claims_checked": 3,
+        "results": [
+          {
+            "claim_sentence": "Under Section 87 product liability exceptions, a manufacturer cannot be held liable for defects without verified independent technical evidence proving the item was inherently flawed at the time of sale.",
+            "cited_section": "Section 87",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          },
+          {
+            "claim_sentence": "Therefore, the claim for a refund under Section 39 must be dismissed for failure of proof.",
+            "cited_section": "Section 39",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          },
+          {
+            "claim_sentence": "Section 87 Product Liability Exceptions",
+            "cited_section": "Section 87",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          }
+        ],
+        "summary": {
+          "entailed": 0,
+          "contradicted": 0,
+          "unsupported": 3
+        }
+      },
+      "judge_semantic": {
+        "agent": "Judge",
+        "total_claims_checked": 0,
+        "results": [],
+        "summary": {
+          "entailed": 0,
+          "contradicted": 0,
+          "unsupported": 0
+        }
+      }
+    },
+    "latencyMs": 59378
+  },
+  {
+    "eval_id": "triage_hf_0655",
+    "category": "Defective Product",
+    "difficulty": "straightforward",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "prediction": {
+      "predicted_outcome": "Inconclusive",
+      "raw_assessment": "Inconclusive / Insufficient Evidence",
+      "predicted_sections": [],
+      "predicted_relief": "No specific relief was requested in the case.",
+      "confidence": 0.5
+    },
+    "grounding_reports": {
+      "support_layer1": {
+        "valid": true,
+        "citation_errors": [],
+        "unsupported_claims": [],
+        "fabricated_sources": [],
+        "warnings": []
+      },
+      "oppose_layer1": {
+        "valid": true,
+        "citation_errors": [],
+        "unsupported_claims": [],
+        "fabricated_sources": [],
+        "warnings": []
+      },
+      "support_semantic": {
+        "agent": "Support",
+        "total_claims_checked": 5,
+        "results": [
+          {
+            "claim_sentence": "The opposite party failed to deliver the promised quality, constituting a clear service failure under Section 2(11) Deficiency and Section 2(10) Defect.",
+            "cited_section": "Section 2(11)",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          },
+          {
+            "claim_sentence": "As per Section 39 Orders, the commission must direct the opposite party to rectify these shortcomings and compensate the consumer.",
+            "cited_section": "Section 39",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          },
+          {
+            "claim_sentence": "Section 2(10) Defect",
+            "cited_section": "Section 2(10)",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          },
+          {
+            "claim_sentence": "Section 2(11) Deficiency",
+            "cited_section": "Section 2(11)",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          },
+          {
+            "claim_sentence": "Section 39 Orders",
+            "cited_section": "Section 39",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          }
+        ],
+        "summary": {
+          "entailed": 0,
+          "contradicted": 0,
+          "unsupported": 5
+        }
+      },
+      "oppose_semantic": {
+        "agent": "Oppose",
+        "total_claims_checked": 2,
+        "results": [
+          {
+            "claim_sentence": "Furthermore, under Section 87 product liability exceptions, the respondent is absolved of liability in the complete absence of concrete verification and supporting purchase documentation.",
+            "cited_section": "Section 87",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          },
+          {
+            "claim_sentence": "Section 87 Product Liability Exceptions",
+            "cited_section": "Section 87",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          }
+        ],
+        "summary": {
+          "entailed": 0,
+          "contradicted": 0,
+          "unsupported": 2
+        }
+      },
+      "judge_semantic": {
+        "agent": "Judge",
+        "total_claims_checked": 0,
+        "results": [],
+        "summary": {
+          "entailed": 0,
+          "contradicted": 0,
+          "unsupported": 0
+        }
+      }
+    },
+    "latencyMs": 60441
+  },
+  {
+    "eval_id": "triage_hf_0625",
+    "category": "Defective Product",
+    "difficulty": "straightforward",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "prediction": {
+      "predicted_outcome": "Inconclusive",
+      "raw_assessment": "Inconclusive / Insufficient Evidence",
+      "predicted_sections": [
+        "Section 2(10)",
+        "Section 2(11)"
+      ],
+      "predicted_relief": "No specific relief was requested in the case.",
+      "confidence": 0.5
+    },
+    "grounding_reports": {
+      "support_layer1": {
+        "valid": true,
+        "citation_errors": [],
+        "unsupported_claims": [],
+        "fabricated_sources": [],
+        "warnings": []
+      },
+      "oppose_layer1": {
+        "valid": true,
+        "citation_errors": [],
+        "unsupported_claims": [],
+        "fabricated_sources": [],
+        "warnings": []
+      },
+      "support_semantic": {
+        "agent": "Support",
+        "total_claims_checked": 3,
+        "results": [
+          {
+            "claim_sentence": "The opposite party is liable under Section 2(11) Deficiency and Section 39 Orders for failing to supply the promised goods in proper working condition.",
+            "cited_section": "Section 2(11)",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          },
+          {
+            "claim_sentence": "Section 2(11) Deficiency",
+            "cited_section": "Section 2(11)",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          },
+          {
+            "claim_sentence": "Section 39 Orders",
+            "cited_section": "Section 39",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          }
+        ],
+        "summary": {
+          "entailed": 0,
+          "contradicted": 0,
+          "unsupported": 3
+        }
+      },
+      "oppose_semantic": {
+        "agent": "Oppose",
+        "total_claims_checked": 2,
+        "results": [
+          {
+            "claim_sentence": "The complainant has failed to provide any technical expert report or technician assessment under Section 87 to prove an inherent manufacturing defect.",
+            "cited_section": "Section 87",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          },
+          {
+            "claim_sentence": "Section 87 Product Liability Exceptions",
+            "cited_section": "Section 87",
+            "retrieved_text_snippet": "",
+            "verdict": "unsupported",
+            "confidence": 1,
+            "explanation": "Section not present in retrieved statutory context."
+          }
+        ],
+        "summary": {
+          "entailed": 0,
+          "contradicted": 0,
+          "unsupported": 2
+        }
+      },
+      "judge_semantic": {
+        "agent": "Judge",
+        "total_claims_checked": 0,
+        "results": [],
+        "summary": {
+          "entailed": 0,
+          "contradicted": 0,
+          "unsupported": 0
+        }
+      }
+    },
+    "latencyMs": 60687
+  }
+]

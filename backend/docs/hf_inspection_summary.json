@@ -1,0 +1,217 @@
+{
+  "ShuvBan/SycoLex": {
+    "status": "ERROR",
+    "error": "An error occurred while generating the dataset"
+  },
+  "LH2-data-labs/indian-legal-records": {
+    "status": "SUCCESS",
+    "splits": [
+      "train"
+    ],
+    "total_rows": 20,
+    "features": [
+      "cnr",
+      "caseType",
+      "caseTypeDesc",
+      "regNo",
+      "courtCode",
+      "courtName",
+      "stateCode",
+      "benchType",
+      "judicialSection",
+      "caseCategory",
+      "caseStatus",
+      "filingDate",
+      "regDate",
+      "decisionDate",
+      "firstHearingDate",
+      "lastHearingDate",
+      "judges",
+      "petitioners",
+      "respondents",
+      "petAdvocates",
+      "resAdvocates",
+      "orderCount",
+      "judgmentCount",
+      "hearingCount",
+      "iaCount",
+      "caseDurationDays"
+    ],
+    "consumer_rows_found": 0,
+    "sample_preview": [
+      {
+        "cnr": "DLHC010351552024",
+        "caseType": "WP_C",
+        "caseTypeDesc": "Writ Petition (Civil)",
+        "regNo": "8371/2024",
+        "courtCode": "DLHC01",
+        "courtName": "High Court of Delhi",
+        "stateCode": "DL",
+        "benchType": "Division Bench",
+        "judicialSection": "APP",
+        "caseCategory": "None",
+        "caseStatus": "DISPOSED",
+        "filingDate": "2024-05-29",
+        "regDate": "2024-05-30",
+        "decisionDate": "2026-01-30",
+        "firstHearingDate": "2024-05-31",
+        "lastHearingDate": "2026-01-30",
+        "judges": "PRATHIBA M. SINGH, MADHU JAIN",
+        "petitioners": "R K Tolani",
+        "respondents": "Esic Friends Co-operative Group Housing Society Limited, Ors.",
+        "petAdvocates": "AMIT SWAMI",
+        "resAdvocates": "None",
+        "orderCount": "2",
+        "judgmentCount": "2",
+        "hearingCount": "1",
+        "iaCount": "3",
+        "caseDurationDays": "611"
+      },
+      {
+        "cnr": "DLHC010445722024",
+        "caseType": "WP_C",
+        "caseTypeDesc": "Writ Petition (Civil)",
+        "regNo": "10384/2024",
+        "courtCode": "DLHC01",
+        "courtName": "High Court of Delhi",
+        "stateCode": "DL",
+        "benchType": "Division Bench",
+        "judicialSection": "APP",
+        "caseCategory": "None",
+        "caseStatus": "DISPOSED",
+        "filingDate": "2024-07-25",
+        "regDate": "2024-07-26",
+        "decisionDate": "2025-11-11",
+        "firstHearingDate": "2024-07-29",
+        "lastHearingDate": "2025-11-11",
+        "judges": "C.HARI SHANKAR, OM PRAKASH SHUKLA",
+        "petitioners": "Uday Kumar",
+        "respondents": "Union of India, Ors.",
+        "petAdvocates": "ANSHUL SHARMA",
+        "resAdvocates": "None",
+        "orderCount": "1",
+        "judgmentCount": "1",
+        "hearingCount": "0",
+        "iaCount": "1",
+        "caseDurationDays": "474"
+      }
+    ]
+  },
+  "overthelex/indian-court-decisions": {
+    "status": "ERROR",
+    "error": "Config name is missing.\nPlease pick one among the available configs: ['high_courts', 'supreme_court']\nExample of usage:\n\t`load_dataset('overthelex/indian-court-decisions', 'high_courts')`"
+  },
+  "itsalloverig/adaption-indian-legal-triage-samples-v4": {
+    "status": "SUCCESS",
+    "splits": [
+      "train"
+    ],
+    "total_rows": 12673,
+    "features": [
+      "instruction",
+      "response",
+      "enhanced_prompt",
+      "enhanced_completion",
+      "citation_required",
+      "curation_variant",
+      "group_id",
+      "input",
+      "legal_area",
+      "license_basis",
+      "license_status",
+      "original_context",
+      "original_license",
+      "original_provenance",
+      "provenance_status",
+      "row_embedding",
+      "row_searchable_text",
+      "safety_type",
+      "source",
+      "source_file",
+      "source_file_sha256",
+      "source_line",
+      "source_name",
+      "source_url",
+      "task_type"
+    ],
+    "consumer_rows_found": 3040,
+    "sample_preview": [
+      {
+        "instruction": "Triage this Indian legal issue for a lawyer or legal team.",
+        "response": "Legal area: Company, startup and corporate governance.\n\nTriage view: Treat this as an intake and research-planning task, not final legal advice. The f",
+        "enhanced_prompt": "# Role\nAct as a senior Indian legal expert specializing in corporate compliance and dispute resolution.\n\n# Task\nTriage the following legal issue for a",
+        "enhanced_completion": "**Legal Research Triage Memorandum**\n\n**Disclaimer:** This document is prepared for legal research assistance and internal triage purposes only. It do",
+        "citation_required": "False",
+        "curation_variant": "base",
+        "group_id": "81135592a46b4aeb126463a209030bbc93afb8df623d2f8df186211acca5f4e4",
+        "input": "A compliance officer in Kochi says an investor alleges breach of reserved matters. The value involved is about \u20b91.2 crore. There are emails, screensho",
+        "legal_area": "company",
+        "license_basis": "user_confirmed_ownership_and_publication_rights_2026-07-01",
+        "license_status": "user_confirmed_cc_by_4_0",
+        "original_context": "A compliance officer in Kochi says an investor alleges breach of reserved matters. The value involved is about \u20b91.2 crore. There are emails, screensho",
+        "original_license": "CC BY 4.0",
+        "original_provenance": "synthetic_curated_v3_generated_from_nyayatriage_design; external HF candidates researched but raw rows not included in this sandbox",
+        "provenance_status": "declared_in_source",
+        "row_embedding": "[-0.0009304761770181358, 0.049625396728515625, -0.0801640972495079, 0.038173381239175797, -0.0027794993948191404, 0.118337482213974, 0.0, -0.020804492",
+        "row_searchable_text": "Prompt: # Role\nAct as a senior Indian legal expert specializing in corporate compliance and dispute resolution.\n\n# Task\nTriage the following legal iss",
+        "safety_type": "none",
+        "source": "",
+        "source_file": "nyayatriage_v3_final_autoscientist_30000.jsonl",
+        "source_file_sha256": "9c69f8b069eab16585985bd8f0178b03a30fe3114ff37803ec85a7c5d6916c1a",
+        "source_line": "11975",
+        "source_name": "",
+        "source_url": "",
+        "task_type": "legal_triage_v3"
+      },
+      {
+        "instruction": "Summarize this Indian court/order excerpt for legal research triage.",
+        "response": "Procedural posture: The matter is not finally decided. The excerpt records documents, objections, and the next procedural stage.\n\nLikely legal area: I",
+        "enhanced_prompt": "# Role\nAct as a legal research assistant specializing in case triage.\n\n# Task\nAnalyze the provided court order excerpt and generate a concise research",
+        "enhanced_completion": "**Legal Research Triage Note: Preliminary Evidence and Procedural Posture**\n\n**1. Facts: Plaintiff's Evidentiary Submissions**\nBased on the provided o",
+        "citation_required": "True",
+        "curation_variant": "base",
+        "group_id": "c7c45e0a96ec3bdc87079f2149bc5839818752f3456914eefb13868bbc92a6d8",
+        "input": "Prepare a research triage note from the order excerpt.",
+        "legal_area": "ip_law",
+        "license_basis": "user_confirmed_ownership_and_publication_rights_2026-07-01",
+        "license_status": "user_confirmed_cc_by_4_0",
+        "original_context": "Prepare a research triage note from the order excerpt.\n\nPrepare a research triage note from the order excerpt.\n\nOrder excerpt: The plaintiff placed sc",
+        "original_license": "CC BY 4.0",
+        "original_provenance": "synthetic_curated_v3_generated_from_nyayatriage_design; external HF candidates researched but raw rows not included in this sandbox",
+        "provenance_status": "declared_in_source",
+        "row_embedding": "[-0.0006255720509216189, 0.009780633263289928, -0.08702021092176437, 0.04972583428025246, -0.002296620514243841, 0.07787942886352539, 0.03766000643372",
+        "row_searchable_text": "Prompt: # Role\nAct as a legal research assistant specializing in case triage.\n\n# Task\nAnalyze the provided court order excerpt and generate a concise ",
+        "safety_type": "source_limited",
+        "source": "Prepare a research triage note from the order excerpt.\n\nOrder excerpt: The plaintiff placed screenshots, domain records, and invoices showing creation",
+        "source_file": "nyayatriage_v3_final_autoscientist_30000.jsonl",
+        "source_file_sha256": "9c69f8b069eab16585985bd8f0178b03a30fe3114ff37803ec85a7c5d6916c1a",
+        "source_line": "21595",
+        "source_name": "",
+        "source_url": "",
+        "task_type": "court_order_summary_v3"
+      }
+    ]
+  },
+  "shruths204/basic-legal-qa-india": {
+    "status": "SUCCESS",
+    "splits": [
+      "train"
+    ],
+    "total_rows": 1500,
+    "features": [
+      "question",
+      "answer"
+    ],
+    "consumer_rows_found": 750,
+    "sample_preview": [
+      {
+        "question": "What is the procedure to file a consumer complaint in India?",
+        "answer": "To file a consumer complaint, identify the correct consumer forum, prepare a detailed complaint with evidence, and submit it with a nominal fee."
+      },
+      {
+        "question": "Can an unmarried couple rent a hotel room in India?",
+        "answer": "Yes, an unmarried couple can legally rent a hotel room in India. There is no law prohibiting it."
+      }
+    ]
+  }
+}

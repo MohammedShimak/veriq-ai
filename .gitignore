@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Environment variables
+.env
+*.env
+.env.*
+
+# Build outputs
+dist/
+.dist/
+build/
+
+# Local database / ChromaDB data / uploads
+backend/database/
+database/
+backend/uploads/
+uploads/
+
+# Archives & Temporary binaries
+*.zip
+*.tar.gz
+
+# Logs
+*.log
+
+# Editor & OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

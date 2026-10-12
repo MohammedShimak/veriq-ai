@@ -1,0 +1,105 @@
+.navbar-header {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  width: 100%;
+  background-color: var(--surface);
+  border-bottom: 1px solid var(--line);
+  backdrop-filter: blur(8px);
+}
+
+.navbar-container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 var(--space-xl);
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navbar-brand {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  text-decoration: none;
+}
+
+.navbar-logo-text {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 500;
+  color: var(--ink);
+  letter-spacing: -0.02em;
+}
+
+.navbar-badge {
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
+  color: var(--brass);
+  background: var(--brass-light);
+  padding: 2px 8px;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--line-bright);
+}
+
+.navbar-nav {
+  display: flex;
+  align-items: center;
+  gap: var(--space-lg);
+}
+
+.navbar-link {
+  font-family: var(--font-body);
+  font-size: var(--text-small);
+  color: var(--ink-muted);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.navbar-link:hover, .navbar-link.active {
+  color: var(--brass);
+}
+
+.theme-toggle-btn {
+  background: none;
+  border: 1px solid var(--line);
+  color: var(--ink);
+  padding: var(--space-xs) var(--space-sm);
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  font-size: var(--text-small);
+  transition: all 0.2s ease;
+}
+
+.theme-toggle-btn:hover {
+  border-color: var(--brass);
+  color: var(--brass);
+}
+
+/* Veriq Global Brand Area Styling */
+.veriq-brand-link {
+  transition: opacity 0.15s ease;
+  display: inline-flex;
+  align-items: center;
+}
+
+.veriq-brand-link:hover .veriq-wordmark {
+  color: var(--veriq-blue) !important;
+}
+
+@media (max-width: 768px) {
+  .veriq-brand-subtagline {
+    display: none !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .veriq-logo-image {
+    height: 26px !important;
+  }
+  .veriq-wordmark {
+    font-size: 1.05rem !important;
+  }
+}
+

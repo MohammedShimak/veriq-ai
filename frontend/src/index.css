@@ -1,0 +1,815 @@
+/* LexAgent Legal Design System — Module G Token System & Premium UI */
+
+:root {
+  /* Color Palette — Dark Mode (Default) */
+  --bg: #0B1420;
+  --surface: #121D2C;
+  --surface-hover: #1A2840;
+  --ink: #F3F1EA;
+  --ink-muted: #94A3B8;
+  --ink-dim: #64748B;
+  --navy: #1B2E47;
+  --brass: #C9A45E;
+  --brass-hover: #B89448;
+  --brass-light: rgba(201, 164, 94, 0.12);
+  --support-green: #4E9078;
+  --support-green-bright: #5DA888;
+  --support-bg: rgba(78, 144, 120, 0.15);
+  --oppose-oxblood: #B25A50;
+  --oppose-oxblood-bright: #C96B60;
+  --oppose-bg: rgba(178, 90, 80, 0.15);
+  --line: #233247;
+  --line-bright: rgba(201, 164, 94, 0.45);
+
+  /* Legacy Backward Compatibility Aliases */
+  --bg-navy: var(--bg);
+  --surface-navy: var(--surface);
+  --surface-card: var(--surface);
+  --surface-card-hover: var(--surface-hover);
+  --accent-brass: var(--brass);
+  --accent-brass-hover: var(--brass-hover);
+  --accent-brass-light: var(--brass-light);
+  --text-parchment: var(--ink);
+  --text-muted: var(--ink-muted);
+  --text-dim: var(--ink-dim);
+  --courtroom-red: var(--oppose-oxblood);
+  --courtroom-red-bright: var(--oppose-oxblood-bright);
+  --courtroom-red-bg: var(--oppose-bg);
+  --courtroom-green: var(--support-green);
+  --courtroom-green-bright: var(--support-green-bright);
+  --courtroom-green-bg: var(--support-bg);
+  --border-hairline: var(--line);
+  --border-hairline-bright: var(--line-bright);
+
+  /* Typography Tokens */
+  --font-display: 'Fraunces', Georgia, serif;
+  --font-body: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: 'IBM Plex Mono', 'JetBrains Mono', monospace;
+
+  --text-hero: 3.5rem;       /* 56px */
+  --text-h1: 2.5rem;         /* 40px */
+  --text-h2: 2rem;           /* 32px */
+  --text-h3: 1.5rem;         /* 24px */
+  --text-body: 1.0625rem;    /* 17px */
+  --text-small: 0.875rem;    /* 14px */
+  --text-xs: 0.75rem;        /* 12px */
+
+  --leading-tight: 1.3;
+  --leading-normal: 1.6;
+  --leading-relaxed: 1.8;
+
+  /* Spacing Scale */
+  --space-xs: 0.25rem;    /* 4px */
+  --space-sm: 0.5rem;     /* 8px */
+  --space-md: 1rem;       /* 16px */
+  --space-lg: 1.5rem;     /* 24px */
+  --space-xl: 2rem;       /* 32px */
+  --space-2xl: 3rem;      /* 48px */
+  --space-3xl: 4rem;      /* 64px */
+  --space-4xl: 6rem;      /* 96px */
+
+  /* Border Radii */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+
+  /* Layout Widths */
+  --max-width: 1280px;
+  --content-width: 800px;
+}
+
+/* Light Mode Overrides (Veriq Clean SaaS Standard) */
+[data-theme="light"] {
+  --bg: #F8FAFC;
+  --surface: #FFFFFF;
+  --surface-hover: #F1F5F9;
+  --ink: #172B4D;
+  --ink-muted: #5E6C84;
+  --ink-dim: #7A869A;
+  --navy: #172B4D;
+  --brass: #2785D8;
+  --brass-hover: #1E6EB6;
+  --brass-light: #E8F3FC;
+  --support-green: #2C5F4E;
+  --support-green-bright: #3D7A68;
+  --support-bg: rgba(44, 95, 78, 0.08);
+  --oppose-oxblood: #7A342E;
+  --oppose-oxblood-bright: #9A453D;
+  --oppose-bg: rgba(122, 52, 46, 0.08);
+  --line: #E2E8F0;
+  --line-bright: rgba(39, 133, 216, 0.55);
+
+  --bg-navy: var(--bg);
+  --surface-navy: var(--surface);
+  --surface-card: var(--surface);
+  --accent-brass: var(--brass);
+  --text-parchment: var(--ink);
+  --text-muted: var(--ink-muted);
+  --courtroom-red: var(--oppose-oxblood);
+  --courtroom-green: var(--support-green);
+  --border-hairline: var(--line);
+}
+
+html, body {
+  overflow-x: hidden;
+  max-width: 100vw;
+}
+
+/* Base Body & Reset */
+body {
+  margin: 0;
+  background-color: var(--bg);
+  background-image: radial-gradient(circle at 50% -20%, rgba(201, 164, 94, 0.12), transparent 70%);
+  background-attachment: fixed;
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: var(--text-body);
+  line-height: var(--leading-normal);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Base Typography */
+h1, h2, h3, h4 {
+  font-family: var(--font-display);
+  font-weight: 400;
+  line-height: var(--leading-tight);
+  color: var(--ink);
+}
+
+h1 { font-size: var(--text-h1); }
+h2 { font-size: var(--text-h2); }
+h3 { font-size: var(--text-h3); }
+
+code, pre, .font-mono {
+  font-family: var(--font-mono);
+  font-size: var(--text-small);
+}
+
+.text-brass { color: var(--brass) !important; }
+.text-parchment { color: var(--ink) !important; }
+.text-muted { color: var(--ink-muted) !important; }
+
+/* Docket Topbar */
+.docket-topbar {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: var(--surface);
+  backdrop-filter: blur(16px);
+  border-bottom: 1px solid var(--line);
+  padding: 12px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+}
+
+.docket-title-group {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.docket-number {
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  color: var(--brass);
+  background: var(--brass-light);
+  padding: 3px 10px;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--line-bright);
+}
+
+/* Status Pills */
+.docket-status-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 4px 10px;
+  border-radius: 20px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.docket-status-pill.draft {
+  background: rgba(148, 163, 184, 0.15);
+  color: var(--ink-muted);
+  border: 1px solid var(--line);
+}
+
+.docket-status-pill.in-session {
+  background: var(--brass-light);
+  color: var(--brass);
+  border: 1px solid var(--line-bright);
+  animation: pulse-border 2s infinite;
+}
+
+.docket-status-pill.verdict {
+  background: var(--support-bg);
+  color: var(--support-green-bright);
+  border: 1px solid var(--support-green);
+}
+
+.docket-status-pill.out-of-scope {
+  background: var(--oppose-bg);
+  color: var(--oppose-oxblood-bright);
+  border: 1px solid var(--oppose-oxblood);
+}
+
+.status-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background-color: currentColor;
+}
+
+/* Buttons */
+.btn-brass {
+  background-color: var(--brass);
+  color: var(--bg);
+  border: none;
+  padding: 10px 20px;
+  border-radius: var(--radius-md);
+  font-family: var(--font-mono);
+  font-size: 0.88rem;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 4px 14px rgba(201, 164, 94, 0.3);
+  transition: all 0.2s ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.btn-brass:hover:not(:disabled) {
+  background-color: var(--brass-hover);
+  transform: translateY(-1px);
+  box-shadow: 0 6px 18px rgba(201, 164, 94, 0.4);
+}
+
+.btn-brass:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.btn-theme-toggle {
+  background: var(--surface-hover);
+  border: 1px solid var(--line);
+  color: var(--ink);
+  padding: 6px 14px;
+  border-radius: var(--radius-md);
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.btn-theme-toggle:hover {
+  border-color: var(--brass);
+  color: var(--brass);
+}
+
+.btn-outline-brass {
+  background: var(--brass-light);
+  border: 1px solid var(--brass);
+  color: var(--brass);
+  padding: 6px 16px;
+  border-radius: var(--radius-md);
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.btn-outline-brass:hover {
+  background: var(--brass);
+  color: var(--bg);
+  box-shadow: 0 0 12px var(--brass-light);
+}
+
+/* Docket Cards */
+.docket-card {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  padding: 24px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(8px);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  animation: fadeInUp 0.4s ease-out;
+}
+
+.docket-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.35);
+}
+
+.petitioner-panel {
+  border-left: 4px solid var(--support-green);
+  box-shadow: 0 4px 20px rgba(78, 144, 120, 0.12);
+}
+
+.respondent-panel {
+  border-left: 4px solid var(--oppose-oxblood);
+  box-shadow: 0 4px 20px rgba(178, 90, 80, 0.12);
+}
+
+.bench-panel {
+  border: 2px solid var(--brass);
+  box-shadow: 0 0 30px rgba(201, 164, 94, 0.2);
+}
+
+.hairline-divider {
+  border: none;
+  border-top: 1px solid var(--line);
+  margin: 32px 0;
+}
+
+/* Animated Gavel Icon */
+.gavel-icon-animated {
+  display: inline-block;
+  animation: pulseGavel 1.5s infinite ease-in-out;
+}
+
+@keyframes pulseGavel {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.2); }
+}
+
+@keyframes pulse-border {
+  0%, 100% { border-color: var(--line-bright); }
+  50% { border-color: var(--brass); }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Accessibility Focus States */
+:focus-visible {
+  outline: 2px solid var(--brass);
+  outline-offset: 2px;
+}
+
+button:focus-visible,
+a:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible {
+  outline: 2px solid var(--brass);
+  outline-offset: 2px;
+}
+
+/* Reduced Motion Override */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* ========================================================
+   LAWCENERAL-INSPIRED LEGAL-TECH COMPONENT SYSTEM (NEEDHIAI)
+   ======================================================== */
+
+.legal-card {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  padding: 24px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(12px);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.legal-card:hover {
+  border-color: var(--line-bright);
+}
+
+.legal-card-brass {
+  border: 1px solid var(--line-bright);
+  background: linear-gradient(180deg, rgba(201, 164, 94, 0.06) 0%, rgba(18, 29, 44, 0.8) 100%);
+}
+
+.legal-card-emerald {
+  border: 1px solid rgba(52, 211, 153, 0.35);
+  background: linear-gradient(180deg, rgba(52, 211, 153, 0.06) 0%, rgba(18, 29, 44, 0.8) 100%);
+}
+
+.legal-card-amber {
+  border: 1px solid rgba(251, 191, 36, 0.35);
+  background: linear-gradient(180deg, rgba(251, 191, 36, 0.06) 0%, rgba(18, 29, 44, 0.8) 100%);
+}
+
+.legal-card-ruby {
+  border: 1px solid rgba(248, 113, 113, 0.35);
+  background: linear-gradient(180deg, rgba(248, 113, 113, 0.06) 0%, rgba(18, 29, 44, 0.8) 100%);
+}
+
+/* Legal Status Badges */
+.legal-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  font-weight: 700;
+  padding: 3px 9px;
+  border-radius: 4px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  white-space: nowrap;
+}
+
+.badge-inspected, .badge-verified {
+  background: rgba(16, 185, 129, 0.15);
+  color: #34d399;
+  border: 1px solid rgba(16, 185, 129, 0.4);
+}
+
+.badge-uploaded {
+  background: rgba(59, 130, 246, 0.15);
+  color: #60a5fa;
+  border: 1px solid rgba(59, 130, 246, 0.4);
+}
+
+.badge-user-reported {
+  background: rgba(245, 158, 11, 0.15);
+  color: #fbbf24;
+  border: 1px solid rgba(245, 158, 11, 0.4);
+}
+
+.badge-contradicted {
+  background: rgba(239, 68, 68, 0.15);
+  color: #f87171;
+  border: 1px solid rgba(239, 68, 68, 0.4);
+}
+
+.badge-unavailable {
+  background: rgba(168, 85, 247, 0.15);
+  color: #c084fc;
+  border: 1px solid rgba(168, 85, 247, 0.4);
+}
+
+.badge-brass {
+  background: var(--brass-light);
+  color: var(--brass);
+  border: 1px solid var(--line-bright);
+}
+
+/* Structured Contradiction Docket Styles */
+.contradiction-box {
+  background: var(--surface);
+  border: 1px solid rgba(245, 158, 11, 0.4);
+  border-radius: var(--radius-md);
+  padding: 16px 20px;
+  margin-bottom: 16px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.2);
+}
+
+.contradiction-box.resolved {
+  border-color: rgba(52, 211, 153, 0.4);
+  background: rgba(16, 185, 129, 0.04);
+}
+
+.contradiction-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+
+.contradiction-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 12px;
+  margin: 12px 0;
+}
+
+.claim-panel {
+  background: var(--bg);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
+  padding: 12px 14px;
+}
+
+/* Fact Tables */
+.fact-table-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  padding: 12px 16px;
+  border-radius: var(--radius-md);
+  background: var(--bg);
+  border: 1px solid var(--line);
+  margin-bottom: 8px;
+  transition: border-color 0.15s ease;
+}
+
+.fact-table-row:hover {
+  border-color: var(--line-bright);
+}
+
+/* Gate Readiness Checklist Dimensions */
+.gate-dimension-card {
+  padding: 14px 16px;
+  border-radius: var(--radius-md);
+  background: var(--bg);
+  border: 1px solid var(--line);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  transition: all 0.2s ease;
+}
+
+.gate-dimension-card.passed {
+  border-left: 3px solid #34d399;
+}
+
+.gate-dimension-card.attention {
+  border-left: 3px solid #fbbf24;
+}
+
+.gate-dimension-card.incomplete {
+  border-left: 3px solid #f87171;
+}
+
+/* Precedent Cards */
+.precedent-card {
+  background: var(--bg);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  padding: 18px 20px;
+  margin-bottom: 14px;
+  transition: transform 0.2s ease, border-color 0.2s ease;
+}
+
+.precedent-card:hover {
+  border-color: var(--brass);
+  transform: translateY(-1px);
+}
+
+/* Responsive Overrides */
+@media (max-width: 768px) {
+  .docket-topbar {
+    padding: 10px 14px;
+  }
+  .legal-card {
+    padding: 16px;
+  }
+  .contradiction-grid {
+    grid-template-columns: 1fr;
+  }
+  .fact-table-row {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+  }
+}
+
+/* ============================================================ */
+/* VERIQ MODERN SAAS LEGAL-TECH DESIGN SYSTEM TOKENS & UTILITIES */
+/* ============================================================ */
+
+:root {
+  --veriq-blue: #2785D8;
+  --veriq-blue-hover: #1e6eb6;
+  --veriq-blue-subtle: #E8F3FC;
+  --veriq-surface-soft: #E8F3FC;
+  --veriq-bg: #F8FAFC;
+  --veriq-teal: #0f766e;
+  --veriq-teal-hover: #115e59;
+  --veriq-teal-subtle: rgba(15, 118, 110, 0.08);
+  --veriq-navy: #172B4D;
+  --veriq-slate: #334155;
+  --veriq-emerald: #059669;
+  --veriq-amber: #d97706;
+  --veriq-rose: #e11d48;
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+}
+
+.font-sans {
+  font-family: var(--font-sans) !important;
+}
+
+/* Modern SaaS Card */
+.veriq-card {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 24px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04), 0 1px 2px rgba(0, 0, 0, 0.02);
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.veriq-card-interactive {
+  cursor: pointer;
+}
+
+.veriq-card-interactive:hover {
+  border-color: var(--veriq-blue);
+  box-shadow: 0 6px 16px -4px rgba(2, 132, 199, 0.12), 0 2px 6px -2px rgba(0, 0, 0, 0.04);
+  transform: translateY(-1px);
+}
+
+/* Modern SaaS Buttons */
+.btn-veriq-primary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 10px 20px;
+  border-radius: 8px;
+  background-color: var(--veriq-blue);
+  color: #ffffff !important;
+  font-family: var(--font-sans);
+  font-size: 0.88rem;
+  font-weight: 600;
+  border: 1px solid transparent;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  text-decoration: none;
+}
+
+.btn-veriq-primary:hover:not(:disabled) {
+  background-color: var(--veriq-blue-hover);
+  box-shadow: 0 4px 12px rgba(2, 132, 199, 0.25);
+}
+
+.btn-veriq-primary:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
+.btn-veriq-secondary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 10px 18px;
+  border-radius: 8px;
+  background-color: var(--surface);
+  color: var(--ink) !important;
+  font-family: var(--font-sans);
+  font-size: 0.88rem;
+  font-weight: 500;
+  border: 1px solid var(--line);
+  cursor: pointer;
+  transition: all 0.15s ease;
+  text-decoration: none;
+}
+
+.btn-veriq-secondary:hover:not(:disabled) {
+  background-color: var(--surface-hover);
+  border-color: var(--veriq-blue);
+  color: var(--veriq-blue) !important;
+}
+
+.btn-veriq-teal {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 10px 20px;
+  border-radius: 8px;
+  background-color: var(--veriq-teal);
+  color: #ffffff !important;
+  font-family: var(--font-sans);
+  font-size: 0.88rem;
+  font-weight: 600;
+  border: 1px solid transparent;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  text-decoration: none;
+}
+
+.btn-veriq-teal:hover:not(:disabled) {
+  background-color: var(--veriq-teal-hover);
+  box-shadow: 0 4px 12px rgba(15, 118, 110, 0.25);
+}
+
+/* Modern Pill Badges */
+.veriq-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 3px 10px;
+  border-radius: 9999px;
+  font-family: var(--font-sans);
+  font-size: 0.75rem;
+  font-weight: 600;
+  line-height: 1.4;
+  letter-spacing: 0.01em;
+}
+
+.veriq-badge-blue {
+  background: rgba(2, 132, 199, 0.1);
+  color: #0284c7;
+  border: 1px solid rgba(2, 132, 199, 0.25);
+}
+
+.veriq-badge-teal {
+  background: rgba(15, 118, 110, 0.1);
+  color: #0f766e;
+  border: 1px solid rgba(15, 118, 110, 0.25);
+}
+
+.veriq-badge-emerald {
+  background: rgba(5, 150, 105, 0.1);
+  color: #059669;
+  border: 1px solid rgba(5, 150, 105, 0.25);
+}
+
+.veriq-badge-amber {
+  background: rgba(217, 119, 6, 0.1);
+  color: #d97706;
+  border: 1px solid rgba(217, 119, 6, 0.25);
+}
+
+.veriq-badge-rose {
+  background: rgba(225, 29, 72, 0.1);
+  color: #e11d48;
+  border: 1px solid rgba(225, 29, 72, 0.25);
+}
+
+.veriq-badge-slate {
+  background: rgba(100, 116, 139, 0.1);
+  color: #64748b;
+  border: 1px solid rgba(100, 116, 139, 0.25);
+}
+
+/* Investigation 8-Stage Progress Tracker */
+.stage-tracker-bar {
+  display: flex;
+  overflow-x: auto;
+  gap: 8px;
+  padding: 12px 14px;
+  border-radius: 12px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  scrollbar-width: thin;
+}
+
+.stage-step-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  border-radius: 8px;
+  font-family: var(--font-sans);
+  font-size: 0.78rem;
+  font-weight: 500;
+  white-space: nowrap;
+  background: var(--bg);
+  border: 1px solid var(--line);
+  transition: all 0.15s ease;
+}
+
+.stage-step-item.active {
+  background: var(--veriq-blue-subtle);
+  border-color: var(--veriq-blue);
+  color: var(--veriq-blue);
+  font-weight: 600;
+}
+
+.stage-step-item.completed {
+  border-color: rgba(5, 150, 105, 0.35);
+  color: #059669;
+}
+
+.stage-step-item.needs-attention {
+  border-color: rgba(217, 119, 6, 0.4);
+  color: #d97706;
+}
+
+/* Clean Legal Citations Formatting */
+.legal-statute-quote {
+  padding: 12px 16px;
+  border-radius: 8px;
+  background: var(--surface-subtle, rgba(2, 132, 199, 0.04));
+  border-left: 3px solid var(--veriq-blue);
+  font-family: var(--font-sans);
+  font-size: 0.84rem;
+  line-height: 1.6;
+  color: var(--ink);
+  margin: 8px 0;
+}
+
+

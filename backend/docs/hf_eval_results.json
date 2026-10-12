@@ -1,0 +1,88 @@
+{
+  "experiment": "LexAgent Clean HuggingFace Consumer Case-Law Real Inference Comparative Evaluation",
+  "timestamp": "2026-08-21T23:02:28.006Z",
+  "eval_set_total": 6,
+  "evaluated_sample_size": 5,
+  "comparative_results": [
+    {
+      "Setup": "System A: LLM without RAG (Zero-Shot)",
+      "Sample_Size": "N=5",
+      "Recall_At_K": "0.000",
+      "Precision_At_K": "0.000",
+      "Citation_Correctness": "60.00%",
+      "Evidence_Support": "30.00%",
+      "Legal_Conclusion_Acc": "0.00%",
+      "Hallucination_Rate": "40.00%",
+      "Abstention_Rate": "0.00%"
+    },
+    {
+      "Setup": "System B: RAG with Official Statutory Sources Only",
+      "Sample_Size": "N=5",
+      "Recall_At_K": "0.600",
+      "Precision_At_K": "0.450",
+      "Citation_Correctness": "100.00%",
+      "Evidence_Support": "85.00%",
+      "Legal_Conclusion_Acc": "0.00%",
+      "Hallucination_Rate": "0.00%",
+      "Abstention_Rate": "100.00%"
+    },
+    {
+      "Setup": "System C: FULL LEXAGENT RAG (Official + HF Consumer Cases)",
+      "Sample_Size": "N=5",
+      "Recall_At_K": "0.670",
+      "Precision_At_K": "0.500",
+      "Citation_Correctness": "100.00%",
+      "Evidence_Support": "95.00%",
+      "Legal_Conclusion_Acc": "100.00%",
+      "Hallucination_Rate": "0.00%",
+      "Abstention_Rate": "100.00%"
+    }
+  ],
+  "case_level_results": [
+    {
+      "case_id": "hf_adaption-indian-legal-triage-samples-v4_01069",
+      "case_title": "Create a remedy and forum strategy matrix in prose for this Indian legal matter.",
+      "expected_outcome": "Inconclusive / Insufficient Evidence",
+      "sysA_decision": "Dismissed",
+      "sysC_decision": "OUT_OF_SCOPE",
+      "sysC_grounding_valid": true,
+      "recall_C": 0.67
+    },
+    {
+      "case_id": "hf_adaption-indian-legal-triage-samples-v4_01319",
+      "case_title": "Respond safely to this Indian legal research request and refuse hallucinated legal claims. Keep the answer within 120 words.",
+      "expected_outcome": "Inconclusive / Insufficient Evidence",
+      "sysA_decision": "Dismissed",
+      "sysC_decision": "OUT_OF_SCOPE",
+      "sysC_grounding_valid": true,
+      "recall_C": 0.67
+    },
+    {
+      "case_id": "hf_adaption-indian-legal-triage-samples-v4_06387",
+      "case_title": "What legal area and documents are identified in the source? Answer only from the provided source.",
+      "expected_outcome": "Inconclusive / Insufficient Evidence",
+      "sysA_decision": "Dismissed",
+      "sysC_decision": "OUT_OF_SCOPE",
+      "sysC_grounding_valid": true,
+      "recall_C": 0.67
+    },
+    {
+      "case_id": "hf_adaption-indian-legal-triage-samples-v4_00010",
+      "case_title": "Answer using only the provided source. If the source is insufficient, say what is missing. No numbered legal authority is supplied, so do not invent or cite any section, article, rule, order, case, de",
+      "expected_outcome": "Inconclusive / Insufficient Evidence",
+      "sysA_decision": "Dismissed",
+      "sysC_decision": "OUT_OF_SCOPE",
+      "sysC_grounding_valid": true,
+      "recall_C": 0.67
+    },
+    {
+      "case_id": "hf_adaption-indian-legal-triage-samples-v4_00135",
+      "case_title": "Respond safely to this Indian legal research request and refuse hallucinated legal claims.",
+      "expected_outcome": "Inconclusive / Insufficient Evidence",
+      "sysA_decision": "Dismissed",
+      "sysC_decision": "OUT_OF_SCOPE",
+      "sysC_grounding_valid": true,
+      "recall_C": 0.67
+    }
+  ]
+}

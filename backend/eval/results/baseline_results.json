@@ -1,0 +1,283 @@
+[
+  {
+    "eval_id": "triage_hf_0175",
+    "category": "Defective Product",
+    "difficulty": "straightforward",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "prediction": {
+      "predicted_outcome": "Inconclusive",
+      "predicted_sections": [
+        "Section 2(10)",
+        "Section 35",
+        "Section 39"
+      ],
+      "predicted_relief": "Case details are insufficient to determine specific relief; typically requires a review of the complaint, evidence, and nature of the defect or deficiency.",
+      "confidence": 0.4
+    },
+    "latencyMs": 1418
+  },
+  {
+    "eval_id": "triage_hf_0505",
+    "category": "Defective Product",
+    "difficulty": "straightforward",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "prediction": {
+      "predicted_outcome": "Inconclusive",
+      "predicted_sections": [
+        "Section 2(11)",
+        "Section 35",
+        "Section 39"
+      ],
+      "predicted_relief": "Insufficient case facts provided to determine specific relief.",
+      "confidence": 0.5
+    },
+    "latencyMs": 871
+  },
+  {
+    "eval_id": "triage_hf_0556",
+    "category": "Defective Product",
+    "difficulty": "straightforward",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "prediction": {
+      "predicted_outcome": "Inconclusive",
+      "predicted_sections": [
+        "Section 2(10)",
+        "Section 35",
+        "Section 39"
+      ],
+      "predicted_relief": "Insufficient case facts provided to determine specific relief; typically requires a detailed complaint regarding defect, deficiency in service, or unfair trade practice to award compensation, refund, or replacement.",
+      "confidence": 0.5
+    },
+    "latencyMs": 1067
+  },
+  {
+    "eval_id": "sc_ncdrc_1995_a7358e",
+    "category": "Defective Product",
+    "difficulty": "straightforward",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "prediction": {
+      "predicted_outcome": "Inconclusive",
+      "predicted_sections": [
+        "Section 2(11)",
+        "Section 35",
+        "Section 39"
+      ],
+      "predicted_relief": "Insufficient case facts provided to determine specific relief.",
+      "confidence": 0.5
+    },
+    "latencyMs": 958
+  },
+  {
+    "eval_id": "triage_hf_0592",
+    "category": "Defective Product",
+    "difficulty": "straightforward",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "prediction": {
+      "predicted_outcome": "Inconclusive",
+      "predicted_sections": [
+        "Section 2(11)",
+        "Section 35",
+        "Section 39"
+      ],
+      "predicted_relief": "Insufficient case facts provided to determine specific relief.",
+      "confidence": 0.5
+    },
+    "latencyMs": 923
+  },
+  {
+    "eval_id": "triage_hf_0154",
+    "category": "Defective Product",
+    "difficulty": "straightforward",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "prediction": {
+      "predicted_outcome": "Inconclusive",
+      "predicted_sections": [
+        "Section 2(10)",
+        "Section 35",
+        "Section 39"
+      ],
+      "predicted_relief": "The provided case facts are too generic and minimal to determine a specific relief. Further details regarding the defect, deficiency in service, or unfair trade practice are required.",
+      "confidence": 0.5
+    },
+    "latencyMs": 1044
+  },
+  {
+    "eval_id": "triage_hf_0438",
+    "category": "Defective Product",
+    "difficulty": "straightforward",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "prediction": {
+      "predicted_outcome": "Inconclusive",
+      "predicted_sections": [
+        "Section 2(10)",
+        "Section 35",
+        "Section 38",
+        "Section 39"
+      ],
+      "predicted_relief": "Insufficient case facts provided to determine specific relief.",
+      "confidence": 0.5
+    },
+    "latencyMs": 921
+  },
+  {
+    "eval_id": "triage_hf_0605",
+    "category": "Defective Product",
+    "difficulty": "straightforward",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "prediction": {
+      "predicted_outcome": "Inconclusive",
+      "predicted_sections": [
+        "Section 2(11)",
+        "Section 35",
+        "Section 39"
+      ],
+      "predicted_relief": "Insufficient case facts provided to determine specific relief.",
+      "confidence": 0.5
+    },
+    "latencyMs": 1032
+  },
+  {
+    "eval_id": "triage_hf_0655",
+    "category": "Defective Product",
+    "difficulty": "straightforward",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "prediction": {
+      "predicted_outcome": "Inconclusive",
+      "predicted_sections": [
+        "Section 2(11)",
+        "Section 35",
+        "Section 39"
+      ],
+      "predicted_relief": "Insufficient case facts provided to determine specific relief.",
+      "confidence": 0.5
+    },
+    "latencyMs": 859
+  },
+  {
+    "eval_id": "triage_hf_0625",
+    "category": "Defective Product",
+    "difficulty": "straightforward",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "prediction": {
+      "predicted_outcome": "Inconclusive",
+      "predicted_sections": [
+        "Section 2(11)",
+        "Section 35",
+        "Section 39"
+      ],
+      "predicted_relief": "Insufficient case facts provided to determine specific relief.",
+      "confidence": 0.5
+    },
+    "latencyMs": 1072
+  }
+]

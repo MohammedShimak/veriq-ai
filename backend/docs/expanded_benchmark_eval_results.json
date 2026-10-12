@@ -1,0 +1,55 @@
+{
+  "experiment": "LexAgent Scientifically Valid 3-System Comparative Evaluation",
+  "timestamp": "2026-08-21T23:14:23.251Z",
+  "evaluation_batch_size": 15,
+  "scope_breakdown": {
+    "total_evaluated": 15,
+    "in_scope_count": 1,
+    "out_of_scope_count": 14,
+    "retrieval_evaluable_count": 1
+  },
+  "comparison_table": [
+    {
+      "System": "System A: Zero-Shot LLM",
+      "Sample_N": "N=15",
+      "Recall_At_5": "0.000",
+      "Precision_At_5": "0.000",
+      "MRR": "0.000",
+      "nDCG_At_5": "0.000",
+      "Citation_Correctness": "13/15 = 86.67% (95% CI: [62.12%, 96.26%])",
+      "Evidence_Support": "0/15 = 0.00% (95% CI: [0.00%, 20.39%])",
+      "InScope_Conclusion_Acc": "0/1 = 0.00% (95% CI: [0.00%, 79.35%])",
+      "OutOfScope_Abstention_Acc": "12/14 = 85.71% (95% CI: [60.06%, 95.99%])",
+      "Safe_Decision_Acc": "12/15 = 80.00% (95% CI: [54.81%, 92.95%])",
+      "Hallucination_Rate": "0/15 = 0.00% (95% CI: [0.00%, 20.39%])"
+    },
+    {
+      "System": "System B: Official Statutory RAG Only",
+      "Sample_N": "N=15",
+      "Recall_At_5": "0.000 (N=1)",
+      "Precision_At_5": "0.000 (N=1)",
+      "MRR": "0.000 (N=1)",
+      "nDCG_At_5": "0.000 (N=1)",
+      "Citation_Correctness": "15/15 = 100.00% (95% CI: [79.61%, 100.00%])",
+      "Evidence_Support": "0/15 = 0.00% (95% CI: [0.00%, 20.39%])",
+      "InScope_Conclusion_Acc": "0/1 = 0.00% (95% CI: [0.00%, 79.35%])",
+      "OutOfScope_Abstention_Acc": "14/14 = 100.00% (95% CI: [78.47%, 100.00%])",
+      "Safe_Decision_Acc": "14/15 = 93.33% (95% CI: [70.18%, 98.81%])",
+      "Hallucination_Rate": "0/15 = 0.00% (95% CI: [0.00%, 20.39%])"
+    },
+    {
+      "System": "System C: FULL LEXAGENT RAG",
+      "Sample_N": "N=15",
+      "Recall_At_5": "0.000 (N=1)",
+      "Precision_At_5": "0.000 (N=1)",
+      "MRR": "0.000 (N=1)",
+      "nDCG_At_5": "0.000 (N=1)",
+      "Citation_Correctness": "15/15 = 100.00% (95% CI: [79.61%, 100.00%])",
+      "Evidence_Support": "0/15 = 0.00% (95% CI: [0.00%, 20.39%])",
+      "InScope_Conclusion_Acc": "0/1 = 0.00% (95% CI: [0.00%, 79.35%])",
+      "OutOfScope_Abstention_Acc": "14/14 = 100.00% (95% CI: [78.47%, 100.00%])",
+      "Safe_Decision_Acc": "14/15 = 93.33% (95% CI: [70.18%, 98.81%])",
+      "Hallucination_Rate": "0/15 = 0.00% (95% CI: [0.00%, 20.39%])"
+    }
+  ]
+}

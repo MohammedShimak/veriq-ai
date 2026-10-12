@@ -1,0 +1,598 @@
+[
+  {
+    "case_id": "triage_hf_0175",
+    "case_title": "Consumer Triage Case 175",
+    "scope": "OUT_OF_SCOPE",
+    "retrieval_evaluable": false,
+    "gold_decision": "Inconclusive",
+    "gold_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "system_A": {
+      "answer": "OUT_OF_SCOPE",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": true
+    },
+    "system_B": {
+      "answer": "Inconclusive / Insufficient Evidence",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": true
+    },
+    "system_C": {
+      "answer": "OUT_OF_SCOPE",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": true
+    }
+  },
+  {
+    "case_id": "triage_hf_0505",
+    "case_title": "Consumer Triage Case 505",
+    "scope": "OUT_OF_SCOPE",
+    "retrieval_evaluable": false,
+    "gold_decision": "Inconclusive",
+    "gold_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "system_A": {
+      "answer": "Inconclusive / Insufficient Evidence",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": true
+    },
+    "system_B": {
+      "answer": "Inconclusive / Insufficient Evidence",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": true
+    },
+    "system_C": {
+      "answer": "OUT_OF_SCOPE",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": true
+    }
+  },
+  {
+    "case_id": "triage_hf_0556",
+    "case_title": "Consumer Triage Case 556",
+    "scope": "OUT_OF_SCOPE",
+    "retrieval_evaluable": false,
+    "gold_decision": "Inconclusive",
+    "gold_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "system_A": {
+      "answer": "OUT_OF_SCOPE",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": true
+    },
+    "system_B": {
+      "answer": "Inconclusive / Insufficient Evidence",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": true
+    },
+    "system_C": {
+      "answer": "OUT_OF_SCOPE",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": true
+    }
+  },
+  {
+    "case_id": "sc_ncdrc_1995_a7358e",
+    "case_title": "Indian Medical Association vs. V.P. Shantha & Ors.",
+    "scope": "IN_SCOPE",
+    "retrieval_evaluable": true,
+    "gold_decision": "ALLOWED",
+    "gold_provisions": [
+      "Section 2(42)",
+      "Section 2(11)"
+    ],
+    "system_A": {
+      "answer": "Dismissed",
+      "retrieved_documents": [],
+      "citations": [
+        "Section 2(1)(o) of the Consumer Protection Act, 1986",
+        "Section 2(42) of the Consumer Protection Act, 2019"
+      ],
+      "abstention": false,
+      "conclusion_correct": false,
+      "safe_decision_correct": false,
+      "grounding_valid": false
+    },
+    "system_B": {
+      "answer": "Inconclusive / Insufficient Evidence",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": false,
+      "grounding_valid": true
+    },
+    "system_C": {
+      "answer": "Inconclusive / Insufficient Evidence",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": false,
+      "grounding_valid": true
+    }
+  },
+  {
+    "case_id": "triage_hf_0592",
+    "case_title": "Consumer Triage Case 592",
+    "scope": "OUT_OF_SCOPE",
+    "retrieval_evaluable": false,
+    "gold_decision": "Inconclusive",
+    "gold_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "system_A": {
+      "answer": "INCONSISTENT_OR_MISSING_DETAILS",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": false,
+      "conclusion_correct": false,
+      "safe_decision_correct": false,
+      "grounding_valid": true
+    },
+    "system_B": {
+      "answer": "Inconclusive / Insufficient Evidence",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": true
+    },
+    "system_C": {
+      "answer": "OUT_OF_SCOPE",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": true
+    }
+  },
+  {
+    "case_id": "triage_hf_0154",
+    "case_title": "Consumer Triage Case 154",
+    "scope": "OUT_OF_SCOPE",
+    "retrieval_evaluable": false,
+    "gold_decision": "Inconclusive",
+    "gold_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "system_A": {
+      "answer": "OUT_OF_SCOPE",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": true
+    },
+    "system_B": {
+      "answer": "Inconclusive / Insufficient Evidence",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": true
+    },
+    "system_C": {
+      "answer": "OUT_OF_SCOPE",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": true
+    }
+  },
+  {
+    "case_id": "triage_hf_0438",
+    "case_title": "Consumer Triage Case 438",
+    "scope": "OUT_OF_SCOPE",
+    "retrieval_evaluable": false,
+    "gold_decision": "Inconclusive",
+    "gold_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "system_A": {
+      "answer": "OUT_OF_SCOPE",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": true
+    },
+    "system_B": {
+      "answer": "Inconclusive / Insufficient Evidence",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": true
+    },
+    "system_C": {
+      "answer": "OUT_OF_SCOPE",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": true
+    }
+  },
+  {
+    "case_id": "triage_hf_0605",
+    "case_title": "Consumer Triage Case 605",
+    "scope": "OUT_OF_SCOPE",
+    "retrieval_evaluable": false,
+    "gold_decision": "Inconclusive",
+    "gold_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "system_A": {
+      "answer": "OUT_OF_SCOPE",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": true
+    },
+    "system_B": {
+      "answer": "Inconclusive / Insufficient Evidence",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": true
+    },
+    "system_C": {
+      "answer": "OUT_OF_SCOPE",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": true
+    }
+  },
+  {
+    "case_id": "triage_hf_0655",
+    "case_title": "Consumer Triage Case 655",
+    "scope": "OUT_OF_SCOPE",
+    "retrieval_evaluable": false,
+    "gold_decision": "Inconclusive",
+    "gold_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "system_A": {
+      "answer": "OUT_OF_SCOPE",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": true
+    },
+    "system_B": {
+      "answer": "Inconclusive / Insufficient Evidence",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": true
+    },
+    "system_C": {
+      "answer": "OUT_OF_SCOPE",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": true
+    }
+  },
+  {
+    "case_id": "triage_hf_0625",
+    "case_title": "Consumer Triage Case 625",
+    "scope": "OUT_OF_SCOPE",
+    "retrieval_evaluable": false,
+    "gold_decision": "Inconclusive",
+    "gold_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "system_A": {
+      "answer": "OUT_OF_SCOPE",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": true
+    },
+    "system_B": {
+      "answer": "Inconclusive / Insufficient Evidence",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": true
+    },
+    "system_C": {
+      "answer": "OUT_OF_SCOPE",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": true
+    }
+  },
+  {
+    "case_id": "triage_hf_0586",
+    "case_title": "Consumer Triage Case 586",
+    "scope": "OUT_OF_SCOPE",
+    "retrieval_evaluable": false,
+    "gold_decision": "Inconclusive",
+    "gold_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "system_A": {
+      "answer": "Inconclusive / Insufficient Evidence",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": true
+    },
+    "system_B": {
+      "answer": "Inconclusive / Insufficient Evidence",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": true
+    },
+    "system_C": {
+      "answer": "OUT_OF_SCOPE",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": true
+    }
+  },
+  {
+    "case_id": "triage_hf_0110",
+    "case_title": "Consumer Triage Case 110",
+    "scope": "OUT_OF_SCOPE",
+    "retrieval_evaluable": false,
+    "gold_decision": "Inconclusive",
+    "gold_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "system_A": {
+      "answer": "Inconclusive / Insufficient Evidence",
+      "retrieved_documents": [],
+      "citations": [
+        "Code of Civil Procedure, 1908",
+        "Limitation Act, 1963"
+      ],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": false
+    },
+    "system_B": {
+      "answer": "Inconclusive / Insufficient Evidence",
+      "retrieved_documents": [],
+      "citations": [
+        "Section 2(7)",
+        "Section 2(10)",
+        "Section 2(11)",
+        "Section 34",
+        "Section 69"
+      ],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": true
+    },
+    "system_C": {
+      "answer": "OUT_OF_SCOPE",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": true
+    }
+  },
+  {
+    "case_id": "triage_hf_0004",
+    "case_title": "Consumer Triage Case 4",
+    "scope": "OUT_OF_SCOPE",
+    "retrieval_evaluable": false,
+    "gold_decision": "Inconclusive",
+    "gold_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "system_A": {
+      "answer": "INCONSISTENT_OR_MISSING_DETAILS",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": false,
+      "conclusion_correct": false,
+      "safe_decision_correct": false,
+      "grounding_valid": true
+    },
+    "system_B": {
+      "answer": "Inconclusive / Insufficient Evidence",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": true
+    },
+    "system_C": {
+      "answer": "OUT_OF_SCOPE",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": true
+    }
+  },
+  {
+    "case_id": "triage_hf_0250",
+    "case_title": "Consumer Triage Case 250",
+    "scope": "OUT_OF_SCOPE",
+    "retrieval_evaluable": false,
+    "gold_decision": "Inconclusive",
+    "gold_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "system_A": {
+      "answer": "OUT_OF_SCOPE",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": true
+    },
+    "system_B": {
+      "answer": "Inconclusive / Insufficient Evidence",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": true
+    },
+    "system_C": {
+      "answer": "OUT_OF_SCOPE",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": true
+    }
+  },
+  {
+    "case_id": "triage_hf_0534",
+    "case_title": "Consumer Triage Case 534",
+    "scope": "OUT_OF_SCOPE",
+    "retrieval_evaluable": false,
+    "gold_decision": "Inconclusive",
+    "gold_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "system_A": {
+      "answer": "OUT_OF_SCOPE",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": true
+    },
+    "system_B": {
+      "answer": "Inconclusive / Insufficient Evidence",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": true
+    },
+    "system_C": {
+      "answer": "OUT_OF_SCOPE",
+      "retrieved_documents": [],
+      "citations": [],
+      "abstention": true,
+      "conclusion_correct": false,
+      "safe_decision_correct": true,
+      "grounding_valid": true
+    }
+  }
+]

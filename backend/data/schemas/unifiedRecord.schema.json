@@ -1,0 +1,90 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "LexAgentUnifiedRecord",
+  "type": "object",
+  "required": [
+    "doc_id",
+    "source_type",
+    "title",
+    "text",
+    "tags",
+    "jurisdiction",
+    "authority_level",
+    "verified",
+    "metadata"
+  ],
+  "properties": {
+    "doc_id": {
+      "type": "string",
+      "description": "Deterministic unique ID (e.g. statute_cpa2019_sec_2_10, prec_sc_2021_tata_motors)"
+    },
+    "source_type": {
+      "type": "string",
+      "enum": ["statute", "rule", "precedent", "case_law", "secondary_qa"]
+    },
+    "title": {
+      "type": "string",
+      "description": "Human-readable title (e.g. 'Definition of Defect', 'Tata Motors vs. Antonio Paulo Vaz')"
+    },
+    "text": {
+      "type": "string",
+      "description": "Primary content chunk for dense vector embedding in FAISS and LLM prompt context"
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Searchable keywords (e.g. ['defect', 'automobile', 'Section 2(10)', 'refund'])"
+    },
+    "jurisdiction": {
+      "type": "string",
+      "default": "India"
+    },
+    "authority_level": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 5,
+      "description": "1=Statute, 2=Official Rule, 3=Supreme Court, 4=NCDRC/HC, 5=Secondary/HF"
+    },
+    "verified": {
+      "type": "boolean",
+      "description": "True for official gazette laws, official rules, and verified court judgments"
+    },
+    "source_url": {
+      "type": "string"
+    },
+    "year": {
+      "type": ["integer", "null"]
+    },
+    "metadata": {
+      "type": "object",
+      "description": "Structured domain metadata preserving fields needed by retriever and validator",
+      "properties": {
+        "act_or_document_name": { "type": "string" },
+        "section_or_rule": { "type": "string" },
+        "legal_purpose": { "type": "string" },
+        "case_name": { "type": "string" },
+        "case_number": { "type": "string" },
+        "citation": { "type": "string" },
+        "court": { "type": "string" },
+        "court_level": { "type": "string" },
+        "bench": { "type": "string" },
+        "case_category": { "type": "array", "items": { "type": "string" } },
+        "parties": { "type": "object" },
+        "facts": { "type": "string" },
+        "legal_issues": { "type": "array", "items": { "type": "string" } },
+        "relevant_sections": { "type": "array" },
+        "consumer_arguments": { "type": "string" },
+        "opposite_party_arguments": { "type": "string" },
+        "court_reasoning": { "type": "string" },
+        "consumer_supporting_principle": { "type": "string" },
+        "respondent_supporting_principle": { "type": "string" },
+        "decision": { "type": "string" },
+        "relief": { "type": "string" },
+        "judgment_outcome": { "type": "object" },
+        "legal_provisions": { "type": "array", "items": { "type": "string" } },
+        "source_dataset": { "type": "string" },
+        "license": { "type": "string" }
+      }
+    }
+  }
+}

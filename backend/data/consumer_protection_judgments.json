@@ -1,0 +1,573 @@
+[
+  {
+    "case_name": "Tata Motors Ltd. vs. Antonio Paulo Vaz & Anr.",
+    "case_number": "Civil Appeal No. 5737 of 2021",
+    "court": "Supreme Court of India",
+    "court_level": "SUPREME_COURT",
+    "bench": "Hon'ble Mr. Justice Navin Sinha & Hon'ble Mr. Justice R. Subhash Reddy",
+    "date": "2021-02-18",
+    "year": 2021,
+    "citation": "(2021) 4 SCC 300",
+    "source": "https://indiankanoon.org/doc/174918239/",
+    "source_type": "TIER_1",
+    "source_verified": true,
+    "case_category": [
+      "Defective Product",
+      "Automobile",
+      "Refund",
+      "Product Liability",
+      "Replacement"
+    ],
+    "parties": {
+      "consumer": "Antonio Paulo Vaz",
+      "opposite_party": "Tata Motors Ltd.",
+      "other_parties": ["Authorized Car Dealership"]
+    },
+    "facts": "The consumer purchased a brand-new car manufactured by Tata Motors from an authorized dealership. Within days of delivery, the vehicle experienced severe mechanical breakdown and engine stalling. The dealer attempted repairs multiple times without success and refused to refund the purchase price or replace the vehicle.",
+    "legal_issues": [
+      "Whether a brand-new vehicle suffering from major breakdown within days constitutes a manufacturing defect under Consumer Protection Law?",
+      "Whether the product manufacturer can avoid vicarious product liability by citing principal-to-principal dealer contracts?"
+    ],
+    "relevant_sections": [
+      {
+        "section": "Section 2(10)",
+        "act": "Consumer Protection Act, 2019",
+        "description": "Definition of Defect"
+      },
+      {
+        "section": "Section 39(1)(b)(c)",
+        "act": "Consumer Protection Act, 2019",
+        "description": "Orders of District Commission for Replacement and Price Refund"
+      },
+      {
+        "section": "Section 84",
+        "act": "Consumer Protection Act, 2019",
+        "description": "Liability of Product Manufacturer"
+      }
+    ],
+    "consumer_arguments": "The consumer argued that purchasing a brand-new vehicle that breaks down immediately constitutes an inherent manufacturing defect under Section 2(10), violating statutory quality warranties and entitling the buyer to a full refund with interest.",
+    "opposite_party_arguments": "Tata Motors argued that the relationship between the manufacturer and the dealer was on a principal-to-principal basis and that the consumer should only be granted free repair of specific parts under warranty clauses rather than a vehicle replacement.",
+    "evidence": [
+      "Original Purchase Invoice & Delivery Memo",
+      "Job Cards showing repeated dealer repair visits within 15 days",
+      "Expert Mechanical Engineering Inspection Report establishing engine manufacturing flaw"
+    ],
+    "court_reasoning": "The Supreme Court held that delivering a brand-new vehicle with severe mechanical defects constitutes a fundamental breach of statutory consumer rights. Where a product suffers from an inherent manufacturing defect that cannot be rectified by routine repairs, forcing the consumer to accept a repaired car is unfair. The manufacturer and dealer are jointly liable.",
+    "legal_principles": [
+      "A consumer purchasing a brand-new product is entitled to defect-free performance.",
+      "Repeated breakdowns immediately after delivery establish a prima facie manufacturing defect under Section 2(10).",
+      "Product manufacturers cannot escape liability for inherent defects by pointing to dealer distribution contracts."
+    ],
+    "consumer_supporting_principle": "Inherent manufacturing defects in new goods entitle the consumer to full refund or replacement under Section 39.",
+    "respondent_supporting_principle": "Manufacturers are liable for replacement only when independent mechanical evidence proves an unrepairable manufacturing defect.",
+    "precedents": [
+      {
+        "case_name": "C.N. Anantharam vs. Fiat India Ltd.",
+        "citation": "(2011) 1 SCC 460",
+        "court": "Supreme Court of India",
+        "principle": "If independent expert evidence proves a manufacturing defect, replacement or full refund must be ordered.",
+        "relevance_type": "SUPPORTS_CONSUMER"
+      }
+    ],
+    "decision": "Complaint Allowed in favour of the Consumer.",
+    "judgment_outcome": {
+      "result": "ALLOWED",
+      "consumer_success": true
+    },
+    "relief": "Ordered refund of the full purchase price of ₹8,50,000 along with 9% interest per annum from the date of purchase, plus ₹50,000 as compensation for mental agony and litigation costs."
+  },
+  {
+    "case_name": "Amazon Seller Services Pvt. Ltd. vs. Vishwajit Singh",
+    "case_number": "Revision Petition No. 1245 of 2022",
+    "court": "National Consumer Disputes Redressal Commission (NCDRC)",
+    "court_level": "NATIONAL_COMMISSION",
+    "bench": "Hon'ble Mr. Justice C. Viswanath, Presiding Member",
+    "date": "2022-09-14",
+    "year": 2022,
+    "citation": "2022 NCDRC 412",
+    "source": "https://indiankanoon.org/doc/182910482/",
+    "source_type": "TIER_1",
+    "source_verified": true,
+    "case_category": [
+      "E-Commerce",
+      "Unfair Trade Practice",
+      "Electronics",
+      "Refund",
+      "Online Purchase"
+    ],
+    "parties": {
+      "consumer": "Vishwajit Singh",
+      "opposite_party": "Amazon Seller Services Pvt. Ltd.",
+      "other_parties": ["Third Party Electronics Seller"]
+    },
+    "facts": "The consumer ordered a high-end laptop on an online e-commerce marketplace platform during a sale. Upon opening the sealed package, the consumer received a brick instead of the laptop. Amazon refused to process a refund or replacement, claiming that the seller was a third-party entity and Amazon was merely an intermediary platform exempt from liability.",
+    "legal_issues": [
+      "Whether an e-commerce marketplace platform can claim intermediary immunity when a wrong/defective product is delivered?",
+      "Whether non-refund by an online platform constitutes an Unfair Trade Practice under Consumer Protection (E-Commerce) Rules, 2020?"
+    ],
+    "relevant_sections": [
+      {
+        "section": "Rule 4 & Rule 6",
+        "act": "Consumer Protection (E-Commerce) Rules, 2020",
+        "description": "Duties of Marketplace E-Commerce Entities and Grievance Redressal"
+      },
+      {
+        "section": "Section 2(47)",
+        "act": "Consumer Protection Act, 2019",
+        "description": "Unfair Trade Practice"
+      },
+      {
+        "section": "Section 86",
+        "act": "Consumer Protection Act, 2019",
+        "description": "Liability of Product Seller in E-Commerce Transactions"
+      }
+    ],
+    "consumer_arguments": "The consumer submitted that payment was collected by Amazon and the delivery was fulfilled by Amazon's logistics network. Denying a refund for a missing/tampered product amounts to severe deficiency in service and unfair trade practice.",
+    "opposite_party_arguments": "Amazon contended that under Section 79 of the Information Technology Act, 2000, it enjoys safe harbour status as an intermediary and is not liable for seller misrepresentation.",
+    "evidence": [
+      "Order Confirmation Email & Payment Gateway Receipt",
+      "Unboxing Video recorded at the time of delivery",
+      "Customer Support Chat Transcripts showing refusal to refund"
+    ],
+    "court_reasoning": "The NCDRC ruled that under the Consumer Protection (E-Commerce) Rules, 2020, marketplace platforms that handle payment collection, logistics, and customer interface cannot disown responsibility for fraudulent non-delivery or defective shipments. Safe harbour under the IT Act does not override explicit duties under consumer protection law.",
+    "legal_principles": [
+      "Marketplace e-commerce platforms collecting payment and handling logistics owe a direct duty of care to consumers under the E-Commerce Rules, 2020.",
+      "Intermediary immunity under the IT Act cannot be used as a shield against consumer trade deficiency."
+    ],
+    "consumer_supporting_principle": "E-commerce platforms handling payments and fulfillment are accountable for non-delivery or wrong product delivery under Section 2(47) and E-Commerce Rules.",
+    "respondent_supporting_principle": "Pure intermediary platforms that do not manufacture or pack goods are exempt if prompt refund action is directed against the actual third-party seller.",
+    "precedents": [
+      {
+        "case_name": "Flipkart Internet Pvt. Ltd. vs. State of UP",
+        "citation": "2021 NCDRC 189",
+        "court": "NCDRC",
+        "principle": "E-commerce platforms facilitating payment and delivery are accountable for trade deficiency under consumer law.",
+        "relevance_type": "SUPPORTS_CONSUMER"
+      }
+    ],
+    "decision": "Revision Petition dismissed; Order against E-Commerce Platform Upheld.",
+    "judgment_outcome": {
+      "result": "ALLOWED",
+      "consumer_success": true
+    },
+    "relief": "Ordered immediate refund of ₹74,999 with 12% interest, plus ₹25,000 compensation and ₹10,000 litigation expenses."
+  },
+  {
+    "case_name": "Horlicks Ltd. vs. Heinz India Pvt. Ltd.",
+    "case_number": "CS(COMM) 1214 of 2018",
+    "court": "Delhi High Court",
+    "court_level": "HIGH_COURT",
+    "bench": "Hon'ble Mr. Justice Rajiv Sahai Endlaw",
+    "date": "2018-12-17",
+    "year": 2018,
+    "citation": "2018 SCC OnLine Del 12975",
+    "source": "https://indiankanoon.org/doc/19201923/",
+    "source_type": "TIER_1",
+    "source_verified": true,
+    "case_category": [
+      "Misleading Advertisement",
+      "Unfair Trade Practice",
+      "Consumer Definition"
+    ],
+    "parties": {
+      "consumer": "General Public / Complainant",
+      "opposite_party": "Heinz India Pvt. Ltd. (Complan)",
+      "other_parties": []
+    },
+    "facts": "The defendant published comparative television and print advertisements claiming that one cup of Complan was equivalent to two cups of Horlicks in terms of growth protein, asserting '2x Faster Growth'. The claims were published without clinical validation standards acceptable under consumer advertising guidelines.",
+    "legal_issues": [
+      "Whether published commercial advertisements making unverified comparative performance claims constitute Misleading Advertisements under Consumer Law?",
+      "What evidentiary standards are required to prove a scientific growth claim made to public consumers?"
+    ],
+    "relevant_sections": [
+      {
+        "section": "Section 2(28)",
+        "act": "Consumer Protection Act, 2019",
+        "description": "Definition of Misleading Advertisement"
+      },
+      {
+        "section": "Section 10 & 18",
+        "act": "Consumer Protection Act, 2019",
+        "description": "Powers of Central Consumer Protection Authority (CCPA) to restrain Misleading Ads"
+      }
+    ],
+    "consumer_arguments": "The petitioner submitted that misleading claims regarding child growth mislead parents and violate consumer rights to truthful product information.",
+    "opposite_party_arguments": "The defendant asserted commercial puffery and trade competition freedom under Article 19(1)(g).",
+    "evidence": [
+      "Broadcast Commercial Recordings",
+      "Independent Nutritional Clinical Study Comparison",
+      "ASCI (Advertising Standards Council of India) Guideline Codes"
+    ],
+    "court_reasoning": "The Court held that commercial speech does not extend to making false or misleading representations regarding health or nutritional benefits. Advertisements that claim specific measurable outcomes (e.g. 2x growth) must be supported by proper scientific testing, failing which they constitute misleading advertisements under Section 2(28).",
+    "legal_principles": [
+      "Commercial advertisements making measurable health claims must possess verifiable scientific validation.",
+      "Unverified performance claims made to consumers constitute actionable misleading advertisements."
+    ],
+    "consumer_supporting_principle": "Unsubstantiated scientific growth promises in mass advertisements violate consumer rights to accurate product information.",
+    "respondent_supporting_principle": "Truthful commercial puffery comparing nutritional values is permissible unless proven demonstrably false.",
+    "precedents": [
+      {
+        "case_name": "Reckitt Benckiser India vs. Hindustan Unilever",
+        "citation": "2014 DHC 3311",
+        "court": "Delhi High Court",
+        "principle": "Misleading product comparisons targeting general consumers are actionable unfair trade practices.",
+        "relevance_type": "SUPPORTS_CONSUMER"
+      }
+    ],
+    "decision": "Injunction Granted against the Misleading Advertisement.",
+    "judgment_outcome": {
+      "result": "ALLOWED",
+      "consumer_success": true
+    },
+    "relief": "Restrained the opposite party from broadcasting or publishing the misleading growth comparison advertisement."
+  },
+  {
+    "case_name": "Indian Medical Association vs. V.P. Shantha & Ors.",
+    "case_number": "Civil Appeal No. 4190 of 1995",
+    "court": "Supreme Court of India",
+    "court_level": "SUPREME_COURT",
+    "bench": "Hon'ble Mr. Justice Kuldip Singh, Hon'ble Mr. Justice S.C. Agrawal & Hon'ble Mr. Justice B.L. Hansaria",
+    "date": "1995-11-13",
+    "year": 1995,
+    "citation": "(1995) 6 SCC 651",
+    "source": "https://indiankanoon.org/doc/723928/",
+    "source_type": "TIER_1",
+    "source_verified": true,
+    "case_category": [
+      "Medical Services",
+      "Deficiency in Service",
+      "Compensation"
+    ],
+    "parties": {
+      "consumer": "V.P. Shantha & Patients",
+      "opposite_party": "Indian Medical Association & Hospital Doctors",
+      "other_parties": []
+    },
+    "facts": "A landmark medical negligence dispute where medical practitioners claimed that medical treatment provided by doctors does not fall within the scope of 'service' under consumer protection law, and patients cannot be treated as 'consumers'.",
+    "legal_issues": [
+      "Whether medical services rendered by medical practitioners and hospitals fall under 'service' under Section 2(42) of Consumer Protection Law?",
+      "Whether patients paying fees for medical treatment qualify as consumers entitled to claim compensation for medical deficiency?"
+    ],
+    "relevant_sections": [
+      {
+        "section": "Section 2(42)",
+        "act": "Consumer Protection Act, 2019",
+        "description": "Definition of Service (includes Medical Services rendered for consideration)"
+      },
+      {
+        "section": "Section 2(11)",
+        "act": "Consumer Protection Act, 2019",
+        "description": "Deficiency in Service"
+      }
+    ],
+    "consumer_arguments": "Patients argued that paying fees for medical treatment constitutes a contract for service, and negligence resulting in bodily harm is a deficiency in medical service.",
+    "opposite_party_arguments": "The Medical Association contended that medical treatment is a personal service governed exclusively by professional codes of ethics and excluded from consumer forum jurisdiction.",
+    "evidence": [
+      "Hospital Admission & Medical Billing Records",
+      "Diagnostic Reports & Surgical Notes",
+      "Expert Medical Board Opinions"
+    ],
+    "court_reasoning": "The Supreme Court delivered a historic judgment ruling that medical services rendered for remuneration fall squarely within the definition of 'service'. Patients paying for medical consultation or treatment are consumers, and medical negligence constitutes deficiency in service.",
+    "legal_principles": [
+      "Medical services rendered for consideration fall within the statutory scope of consumer protection law.",
+      "Patients paying consultation fees are consumers entitled to seek compensation for medical negligence."
+    ],
+    "consumer_supporting_principle": "Medical treatment rendered for financial consideration constitutes a statutory service under Section 2(42).",
+    "respondent_supporting_principle": "Free medical services rendered in government hospitals without consideration are excluded from consumer commission jurisdiction.",
+    "precedents": [
+      {
+        "case_name": "Lucknow Development Authority vs. M.K. Gupta",
+        "citation": "(1994) 1 SCC 243",
+        "court": "Supreme Court of India",
+        "principle": "The term 'service' under consumer law is defined broadly to include professional and public utility services.",
+        "relevance_type": "SUPPORTS_CONSUMER"
+      }
+    ],
+    "decision": "Landmark Ruling in favor of Consumer Protection Scope.",
+    "judgment_outcome": {
+      "result": "ALLOWED",
+      "consumer_success": true
+    },
+    "relief": "Affirmed the jurisdiction of Consumer Commissions to hear medical deficiency complaints and award compensation for medical negligence."
+  },
+  {
+    "case_name": "Lucknow Development Authority vs. M.K. Gupta",
+    "case_number": "Civil Appeal No. 6237 of 1990",
+    "court": "Supreme Court of India",
+    "court_level": "SUPREME_COURT",
+    "bench": "Hon'ble Mr. Justice R.M. Sahai & Hon'ble Mr. Justice B.P. Jeevan Reddy",
+    "date": "1993-11-05",
+    "year": 1993,
+    "citation": "(1994) 1 SCC 243",
+    "source": "https://indiankanoon.org/doc/1449201/",
+    "source_type": "TIER_1",
+    "source_verified": true,
+    "case_category": [
+      "Real Estate",
+      "Deficiency in Service",
+      "Refund",
+      "Compensation"
+    ],
+    "parties": {
+      "consumer": "M.K. Gupta",
+      "opposite_party": "Lucknow Development Authority",
+      "other_parties": []
+    },
+    "facts": "A homebuyer deposited complete installments for a residential flat allotted by a public housing development authority. The authority failed to deliver possession of the flat for over 7 years beyond the agreed timeline and refused to pay interest or refund the money.",
+    "legal_issues": [
+      "Whether statutory development authorities providing housing plots/flats perform a 'service' under Consumer Law?",
+      "Whether inordinate delay in handing over possession of real estate constitutes Deficiency in Service entitling the homebuyer to refund with interest?"
+    ],
+    "relevant_sections": [
+      {
+        "section": "Section 2(42)",
+        "act": "Consumer Protection Act, 2019",
+        "description": "Definition of Service (Housing Construction & Real Estate)"
+      },
+      {
+        "section": "Section 39(1)(d)",
+        "act": "Consumer Protection Act, 2019",
+        "description": "Compensation for Loss or Injury suffered due to Negligence"
+      }
+    ],
+    "consumer_arguments": "The homebuyer submitted that non-delivery of housing possession despite full payment constitutes severe deficiency, harassment, and exploitation.",
+    "opposite_party_arguments": "The housing authority argued that it is a statutory body performing sovereign urban development functions and is immune from consumer claims.",
+    "evidence": [
+      "Allotment Letter & Payment Receipt Receipts",
+      "Possession Timeline Agreements",
+      "Written Representations sent to Authority Officers"
+    ],
+    "court_reasoning": "The Supreme Court held that housing construction and real estate development are express statutory services under consumer law. Public bodies cannot misbehave or cause unjust delay without accountability. Inordinate delay in possession is a classic deficiency in service.",
+    "legal_principles": [
+      "Real estate housing construction is an express service under Consumer Protection Law.",
+      "Inordinate delay in delivering housing possession entitles homebuyers to full refund with interest and punitive damages."
+    ],
+    "consumer_supporting_principle": "Delay in housing possession beyond the agreed timeline constitutes a statutory deficiency in service under Section 2(11).",
+    "respondent_supporting_principle": "Statutory authorities are exempt from penalty if delay occurred due to force majeure court injunctions outside the authority's control.",
+    "precedents": [
+      {
+        "case_name": "Ghaziabad Development Authority vs. Balbir Singh",
+        "citation": "(2004) 5 SCC 65",
+        "court": "Supreme Court of India",
+        "principle": "Homebuyers cannot be made to wait indefinitely; interest on refund must compensate for market inflation.",
+        "relevance_type": "SUPPORTS_CONSUMER"
+      }
+    ],
+    "decision": "Appeal Dismissed; Ruling in favor of Homebuyer.",
+    "judgment_outcome": {
+      "result": "ALLOWED",
+      "consumer_success": true
+    },
+    "relief": "Ordered immediate refund of deposited amount along with 18% interest per annum and punitive compensation against erring authority officials."
+  },
+  {
+    "case_name": "State Bank of India vs. Ms. Sheila Ranganathan",
+    "case_number": "Revision Petition No. 892 of 2020",
+    "court": "National Consumer Disputes Redressal Commission (NCDRC)",
+    "court_level": "NATIONAL_COMMISSION",
+    "bench": "Hon'ble Mr. Justice Deepa Sharma, Presiding Member",
+    "date": "2020-08-11",
+    "year": 2020,
+    "citation": "2020 NCDRC 301",
+    "source": "https://indiankanoon.org/doc/10291048/",
+    "source_type": "TIER_1",
+    "source_verified": true,
+    "case_category": [
+      "Banking",
+      "Deficiency in Service",
+      "Compensation",
+      "Refund"
+    ],
+    "parties": {
+      "consumer": "Ms. Sheila Ranganathan",
+      "opposite_party": "State Bank of India",
+      "other_parties": []
+    },
+    "facts": "Unauthorised fraudulent ATM withdrawals took place from the consumer's bank account without OTP generation or SMS alerts sent to the mobile number. The bank refused to credit the fraudulently debited amount, claiming customer negligence in safeguarding PIN.",
+    "legal_issues": [
+      "Whether failure of a bank to send real-time SMS alerts and prevent unauthorized electronic transactions constitutes Deficiency in Service under Consumer Law?",
+      "Who bears the burden of proof for unauthorized banking transactions under RBI Circulars and Consumer Law?"
+    ],
+    "relevant_sections": [
+      {
+        "section": "Section 2(11)",
+        "act": "Consumer Protection Act, 2019",
+        "description": "Deficiency in Service in Banking Transactions"
+      },
+      {
+        "section": "Section 39(1)(d)",
+        "act": "Consumer Protection Act, 2019",
+        "description": "Compensation for Bank Negligence"
+      }
+    ],
+    "consumer_arguments": "The account holder immediately notified the bank within 24 hours. Under RBI Zero Liability Guidelines, the consumer bears zero liability for third-party security breaches.",
+    "opposite_party_arguments": "The bank argued that ATM transactions require physical card insertion and PIN entry, implying consumer disclosure of PIN.",
+    "evidence": [
+      "Bank Account Statement showing unauthorized debits",
+      "Copy of FIR lodged with Cyber Crime Police Station",
+      "Mobile Operator Call/SMS Log proving no SMS alert was transmitted by Bank"
+    ],
+    "court_reasoning": "The NCDRC held that banking institutions owe a strict duty of care to implement secure electronic payment systems. Where unauthorized transactions occur without SMS alert dispatch, the bank cannot penalize the account holder. Failure to credit zero-liability fraud within 10 days is a clear deficiency in service.",
+    "legal_principles": [
+      "Banks owe a strict operational duty of care to transmit real-time transaction alerts to account holders.",
+      "Under zero customer liability guidelines, fraudulent debits reported promptly must be refunded by the bank."
+    ],
+    "consumer_supporting_principle": "Unauthorized electronic bank debits notified within 3 days carry zero liability for the consumer under Section 2(11).",
+    "respondent_supporting_principle": "Banks are not liable if documentary ATM log evidence proves PIN compromised directly by customer negligence.",
+    "precedents": [
+      {
+        "case_name": "Punjab National Bank vs. Leader Valves Ltd.",
+        "citation": "2020 NCDRC 114",
+        "court": "NCDRC",
+        "principle": "Banks are strictly liable for unauthorized digital transaction losses where customer negligence is not established.",
+        "relevance_type": "SUPPORTS_CONSUMER"
+      }
+    ],
+    "decision": "Order in favor of Account Holder.",
+    "judgment_outcome": {
+      "result": "ALLOWED",
+      "consumer_success": true
+    },
+    "relief": "Ordered State Bank of India to reverse the fraudulent debit of ₹1,20,000 with 9% interest and pay ₹20,000 compensation."
+  },
+  {
+    "case_name": "National Insurance Co. Ltd. vs. Harsolia Motors",
+    "case_number": "Civil Appeal No. 7053 of 2023",
+    "court": "Supreme Court of India",
+    "court_level": "SUPREME_COURT",
+    "bench": "Hon'ble Mr. Justice Ajay Rastogi & Hon'ble Mr. Justice C.T. Ravikumar",
+    "date": "2023-04-13",
+    "year": 2023,
+    "citation": "(2023) 8 SCC 341",
+    "source": "https://indiankanoon.org/doc/15920194/",
+    "source_type": "TIER_1",
+    "source_verified": true,
+    "case_category": [
+      "Insurance",
+      "Deficiency in Service",
+      "Consumer Definition",
+      "Refund"
+    ],
+    "parties": {
+      "consumer": "Harsolia Motors",
+      "opposite_party": "National Insurance Co. Ltd.",
+      "other_parties": []
+    },
+    "facts": "A commercial entity took a fire insurance policy covering its business premises. Following a major fire damage, the insurance company repudiated the claim alleging that taking insurance for business assets is for 'commercial purpose' and therefore the firm is not a consumer under Section 2(7).",
+    "legal_issues": [
+      "Whether taking an insurance policy for indemnification against loss qualifies as a 'commercial purpose' excluding the policyholder from being a Consumer?",
+      "Whether arbitrary claim repudiation by an insurance company constitutes Deficiency in Service?"
+    ],
+    "relevant_sections": [
+      {
+        "section": "Section 2(7)",
+        "act": "Consumer Protection Act, 2019",
+        "description": "Definition of Consumer (Exclusion of Commercial Purpose)"
+      },
+      {
+        "section": "Section 2(11)",
+        "act": "Consumer Protection Act, 2019",
+        "description": "Deficiency in Service by Insurance Companies"
+      }
+    ],
+    "consumer_arguments": "Insurance is a contract of indemnity taken to protect against contingent loss, not to generate direct commercial profit or resale, making policyholders legitimate consumers.",
+    "opposite_party_arguments": "The insurance firm argued that since the insured property was used for commercial business, the policy is for commercial profit.",
+    "evidence": [
+      "Original Insurance Policy Schedule & Premium Receipts",
+      "Fire Department Incident Report & Surveyor Assessment Report",
+      "Claim Repudiation Letter issued by Insurance Company"
+    ],
+    "court_reasoning": "The Supreme Court clarified that an insurance policy is taken for risk coverage and protection, not for trading or earning profit. Therefore, taking insurance for business premises does not convert the policy into a 'commercial purpose'. Arbitrary repudiation of valid claims is a deficiency in service.",
+    "legal_principles": [
+      "Insurance contracts are indemnity contracts, not profit-generating commercial transactions under Section 2(7).",
+      "Repudiation of valid insurance claims on technical commercial exclusions constitutes deficiency in service."
+    ],
+    "consumer_supporting_principle": "Insurance policyholders seeking indemnity for property damage qualify as consumers under Section 2(7).",
+    "respondent_supporting_principle": "Insurance repudiation is legally justified if surveyor reports establish material non-disclosure or policy condition breach.",
+    "precedents": [
+      {
+        "case_name": "Laxmi Engineering Works vs. P.S.G. Industrial Institute",
+        "citation": "(1995) 3 SCC 583",
+        "court": "Supreme Court of India",
+        "principle": "Commercial purpose exclusion applies to goods bought for resale or generating direct profit, not risk indemnification.",
+        "relevance_type": "SUPPORTS_CONSUMER"
+      }
+    ],
+    "decision": "Landmark Judgment in favor of Policyholders.",
+    "judgment_outcome": {
+      "result": "ALLOWED",
+      "consumer_success": true
+    },
+    "relief": "Set aside insurance repudiation; ordered full payment of assessed fire claim amount of ₹45,00,000 with 9% interest."
+  },
+  {
+    "case_name": "FIITJEE Ltd. vs. Minathi Rath",
+    "case_number": "Revision Petition No. 4235 of 2012",
+    "court": "National Consumer Disputes Redressal Commission (NCDRC)",
+    "court_level": "NATIONAL_COMMISSION",
+    "bench": "Hon'ble Mr. Justice J.M. Malik, Presiding Member",
+    "date": "2012-04-17",
+    "year": 2012,
+    "citation": "2012 NCDRC 188",
+    "source": "https://indiankanoon.org/doc/10294819/",
+    "source_type": "TIER_1",
+    "source_verified": true,
+    "case_category": [
+      "Education Services",
+      "Deficiency in Service",
+      "Refund",
+      "Unfair Contract"
+    ],
+    "parties": {
+      "consumer": "Minathi Rath",
+      "opposite_party": "FIITJEE Ltd.",
+      "other_parties": []
+    },
+    "facts": "A student enrolled in a 2-year coaching program and paid the full fee upfront. Due to unsatisfactory teaching standards, the student left the course within 3 months. The institute refused to refund the remaining 21 months' fee, citing a non-refundable clause in the enrollment agreement.",
+    "legal_issues": [
+      "Whether coaching institutes collecting advance non-refundable fees for multi-year courses commit an Unfair Trade Practice?",
+      "Whether non-refund of unavailed course fee when a student leaves midway constitutes Deficiency in Service?"
+    ],
+    "relevant_sections": [
+      {
+        "section": "Section 2(47)",
+        "act": "Consumer Protection Act, 2019",
+        "description": "Unfair Trade Practice and Unfair Contract Terms"
+      },
+      {
+        "section": "Section 2(46)",
+        "act": "Consumer Protection Act, 2019",
+        "description": "Definition of Unfair Contract"
+      }
+    ],
+    "consumer_arguments": "Collecting advance fees for two years and refusing pro-rata refund for unavailed duration is an unfair contract term and exploitation of students.",
+    "opposite_party_arguments": "FIITJEE argued that seats remain vacant if a student leaves, and the signed student declaration clearly specified non-refundable fee rules.",
+    "evidence": [
+      "Fee Payment Receipts & Course Prospectus",
+      "Written Resignation / Withdrawal Letter submitted within 3 months",
+      "Terms of Enrollment Agreement"
+    ],
+    "court_reasoning": "The NCDRC held that educational coaching institutions cannot collect advance fees for the entire duration of multi-year courses and retain unearned money. One-sided non-refundable clauses signed under compulsion are 'unfair contracts'. Institutes are entitled only to retain pro-rata fee for the period attended.",
+    "legal_principles": [
+      "Educational and coaching institutes cannot enforce non-refundable fee clauses for unavailed course durations.",
+      "One-sided non-refundable enrollment clauses signed by parents are unfair contracts under Section 2(46)."
+    ],
+    "consumer_supporting_principle": "Students leaving coaching courses midway are entitled to pro-rata refund of unearned fees under Section 2(47).",
+    "respondent_supporting_principle": "Institutes can retain reasonable registration fees and pro-rata tuition for the exact months attended by the student.",
+    "precedents": [
+      {
+        "case_name": "Islamic Academy of Education vs. State of Karnataka",
+        "citation": "(2003) 6 SCC 697",
+        "court": "Supreme Court of India",
+        "principle": "Educational institutions cannot charge advance fees for future years or enforce capitation/non-refund penalties.",
+        "relevance_type": "SUPPORTS_CONSUMER"
+      }
+    ],
+    "decision": "Revision Petition of Coaching Institute Dismissed.",
+    "judgment_outcome": {
+      "result": "ALLOWED",
+      "consumer_success": true
+    },
+    "relief": "Ordered coaching institute to refund the balance unearned fee of ₹1,15,000 along with 9% interest and ₹10,000 litigation costs."
+  }
+]

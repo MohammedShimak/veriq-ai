@@ -1,0 +1,31 @@
+{
+  "pipeline": "LexAgent HuggingFace Integration Pipeline",
+  "timestamp": "2026-08-22T04:10:00Z",
+  "seed": 42,
+  "total_records_processed": 54237,
+  "total_consumer_records": 3836,
+  "rag_corpus_count": 3068,
+  "eval_set_count": 768,
+  "datasets": {
+    "LH2-data-labs/indian-legal-records": {
+      "total_downloaded": 20,
+      "consumer_retained": 0,
+      "license": "Open Data Commons / Apache 2.0"
+    },
+    "overthelex/indian-court-decisions (supreme_court)": {
+      "total_downloaded": 40044,
+      "consumer_retained": 46,
+      "license": "Open Data Commons / Apache 2.0"
+    },
+    "itsalloverig/adaption-indian-legal-triage-samples-v4": {
+      "total_downloaded": 12673,
+      "consumer_retained": 3040,
+      "license": "Open Data Commons / Apache 2.0"
+    },
+    "shruths204/basic-legal-qa-india": {
+      "total_downloaded": 1500,
+      "consumer_retained": 750,
+      "license": "Open Data Commons / Apache 2.0"
+    }
+  }
+}

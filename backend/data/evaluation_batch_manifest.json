@@ -1,0 +1,22 @@
+{
+  "seed": 42,
+  "sample_size": 15,
+  "timestamp": "2026-08-22T04:42:00Z",
+  "case_ids": [
+    "triage_hf_0175",
+    "triage_hf_0505",
+    "triage_hf_0556",
+    "sc_ncdrc_1995_a7358e",
+    "triage_hf_0592",
+    "triage_hf_0154",
+    "triage_hf_0438",
+    "triage_hf_0605",
+    "triage_hf_0655",
+    "triage_hf_0625",
+    "triage_hf_0586",
+    "triage_hf_0110",
+    "triage_hf_0004",
+    "triage_hf_0250",
+    "triage_hf_0534"
+  ]
+}

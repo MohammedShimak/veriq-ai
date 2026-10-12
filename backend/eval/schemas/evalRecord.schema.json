@@ -1,0 +1,56 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "LexAgentEvalRecord",
+  "type": "object",
+  "required": [
+    "eval_id",
+    "category",
+    "case_facts",
+    "ground_truth",
+    "difficulty"
+  ],
+  "properties": {
+    "eval_id": {
+      "type": "string",
+      "description": "Unique evaluation record ID (e.g. eval_defective_laptop_001)"
+    },
+    "category": {
+      "type": "string",
+      "description": "Case dispute category (e.g. Defective Product, Refund, E-Commerce, Misleading Advertisement)"
+    },
+    "case_facts": {
+      "type": "string",
+      "description": "Factual dispute description presented as natural consumer statement"
+    },
+    "ground_truth": {
+      "type": "object",
+      "required": ["outcome"],
+      "properties": {
+        "outcome": {
+          "type": "string",
+          "enum": ["Consumer Wins", "Respondent Wins", "Inconclusive", "ALLOWED", "DISMISSED"]
+        },
+        "sections_invoked": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "relief_granted": {
+          "type": "string"
+        },
+        "court": {
+          "type": "string"
+        },
+        "citation": {
+          "type": "string"
+        },
+        "source_url": {
+          "type": "string"
+        }
+      }
+    },
+    "difficulty": {
+      "type": "string",
+      "enum": ["straightforward", "nuanced", "edge_case"]
+    }
+  }
+}

@@ -1,0 +1,2396 @@
+[
+  {
+    "case_id": "triage_hf_0175",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 175"
+  },
+  {
+    "case_id": "triage_hf_0505",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 505"
+  },
+  {
+    "case_id": "triage_hf_0556",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 556"
+  },
+  {
+    "case_id": "sc_ncdrc_1995_a7358e",
+    "gold_legal_issues": [
+      "Whether medical services rendered by medical practitioners and hospitals fall under 'service' under Section 2(42) of Consumer Protection Law?",
+      "Whether patients paying fees for medical treatment qualify as consumers entitled to claim compensation for medical deficiency?"
+    ],
+    "gold_legal_provisions": [
+      "Section 2(42)",
+      "Section 2(11)"
+    ],
+    "gold_outcome": "ALLOWED",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "Supreme Court of India",
+    "gold_case_citation": "Indian Medical Association vs. V.P. Shantha & Ors."
+  },
+  {
+    "case_id": "triage_hf_0592",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 592"
+  },
+  {
+    "case_id": "triage_hf_0154",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 154"
+  },
+  {
+    "case_id": "triage_hf_0438",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 438"
+  },
+  {
+    "case_id": "triage_hf_0605",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 605"
+  },
+  {
+    "case_id": "triage_hf_0655",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 655"
+  },
+  {
+    "case_id": "triage_hf_0625",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 625"
+  },
+  {
+    "case_id": "triage_hf_0586",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 586"
+  },
+  {
+    "case_id": "triage_hf_0110",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 110"
+  },
+  {
+    "case_id": "triage_hf_0004",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 4"
+  },
+  {
+    "case_id": "triage_hf_0250",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 250"
+  },
+  {
+    "case_id": "triage_hf_0534",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 534"
+  },
+  {
+    "case_id": "triage_hf_0472",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 472"
+  },
+  {
+    "case_id": "triage_hf_0383",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 383"
+  },
+  {
+    "case_id": "triage_hf_0387",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 387"
+  },
+  {
+    "case_id": "triage_hf_0058",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 58"
+  },
+  {
+    "case_id": "triage_hf_0626",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 626"
+  },
+  {
+    "case_id": "triage_hf_0627",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 627"
+  },
+  {
+    "case_id": "triage_hf_0149",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 149"
+  },
+  {
+    "case_id": "triage_hf_0105",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 105"
+  },
+  {
+    "case_id": "triage_hf_0041",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 41"
+  },
+  {
+    "case_id": "triage_hf_0086",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 86"
+  },
+  {
+    "case_id": "triage_hf_0498",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 498"
+  },
+  {
+    "case_id": "triage_hf_0514",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 514"
+  },
+  {
+    "case_id": "triage_hf_0134",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 134"
+  },
+  {
+    "case_id": "triage_hf_0576",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 576"
+  },
+  {
+    "case_id": "triage_hf_0604",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 604"
+  },
+  {
+    "case_id": "triage_hf_0401",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 401"
+  },
+  {
+    "case_id": "triage_hf_0431",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 431"
+  },
+  {
+    "case_id": "triage_hf_0262",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 262"
+  },
+  {
+    "case_id": "triage_hf_0544",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 544"
+  },
+  {
+    "case_id": "triage_hf_0245",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 245"
+  },
+  {
+    "case_id": "triage_hf_0650",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 650"
+  },
+  {
+    "case_id": "triage_hf_0264",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 264"
+  },
+  {
+    "case_id": "triage_hf_0139",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 139"
+  },
+  {
+    "case_id": "triage_hf_0462",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 462"
+  },
+  {
+    "case_id": "triage_hf_0398",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 398"
+  },
+  {
+    "case_id": "triage_hf_0504",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 504"
+  },
+  {
+    "case_id": "triage_hf_0210",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 210"
+  },
+  {
+    "case_id": "triage_hf_0315",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 315"
+  },
+  {
+    "case_id": "triage_hf_0209",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 209"
+  },
+  {
+    "case_id": "triage_hf_0060",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 60"
+  },
+  {
+    "case_id": "triage_hf_0267",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 267"
+  },
+  {
+    "case_id": "triage_hf_0403",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 403"
+  },
+  {
+    "case_id": "triage_hf_0316",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 316"
+  },
+  {
+    "case_id": "triage_hf_0644",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 644"
+  },
+  {
+    "case_id": "triage_hf_0227",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 227"
+  },
+  {
+    "case_id": "triage_hf_0050",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 50"
+  },
+  {
+    "case_id": "triage_hf_0325",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 325"
+  },
+  {
+    "case_id": "triage_hf_0217",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 217"
+  },
+  {
+    "case_id": "triage_hf_0563",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 563"
+  },
+  {
+    "case_id": "triage_hf_0269",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 269"
+  },
+  {
+    "case_id": "triage_hf_0381",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 381"
+  },
+  {
+    "case_id": "triage_hf_0466",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 466"
+  },
+  {
+    "case_id": "triage_hf_0160",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 160"
+  },
+  {
+    "case_id": "triage_hf_0652",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 652"
+  },
+  {
+    "case_id": "triage_hf_0539",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 539"
+  },
+  {
+    "case_id": "triage_hf_0168",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 168"
+  },
+  {
+    "case_id": "triage_hf_0066",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 66"
+  },
+  {
+    "case_id": "triage_hf_0266",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 266"
+  },
+  {
+    "case_id": "triage_hf_0207",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 207"
+  },
+  {
+    "case_id": "triage_hf_0356",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 356"
+  },
+  {
+    "case_id": "triage_hf_0372",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 372"
+  },
+  {
+    "case_id": "triage_hf_0159",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 159"
+  },
+  {
+    "case_id": "triage_hf_0366",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 366"
+  },
+  {
+    "case_id": "triage_hf_0457",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 457"
+  },
+  {
+    "case_id": "triage_hf_0624",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 624"
+  },
+  {
+    "case_id": "triage_hf_0618",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 618"
+  },
+  {
+    "case_id": "triage_hf_0096",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 96"
+  },
+  {
+    "case_id": "triage_hf_0640",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 640"
+  },
+  {
+    "case_id": "triage_hf_0074",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 74"
+  },
+  {
+    "case_id": "triage_hf_0289",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 289"
+  },
+  {
+    "case_id": "triage_hf_0226",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 226"
+  },
+  {
+    "case_id": "triage_hf_0039",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 39"
+  },
+  {
+    "case_id": "triage_hf_0064",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 64"
+  },
+  {
+    "case_id": "triage_hf_0189",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 189"
+  },
+  {
+    "case_id": "triage_hf_0584",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 584"
+  },
+  {
+    "case_id": "triage_hf_0363",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 363"
+  },
+  {
+    "case_id": "triage_hf_0293",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 293"
+  },
+  {
+    "case_id": "triage_hf_0558",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 558"
+  },
+  {
+    "case_id": "triage_hf_0073",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 73"
+  },
+  {
+    "case_id": "triage_hf_0380",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 380"
+  },
+  {
+    "case_id": "triage_hf_0120",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 120"
+  },
+  {
+    "case_id": "triage_hf_0542",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 542"
+  },
+  {
+    "case_id": "triage_hf_0463",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 463"
+  },
+  {
+    "case_id": "triage_hf_0037",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 37"
+  },
+  {
+    "case_id": "triage_hf_0263",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 263"
+  },
+  {
+    "case_id": "triage_hf_0611",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 611"
+  },
+  {
+    "case_id": "triage_hf_0345",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 345"
+  },
+  {
+    "case_id": "triage_hf_0360",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 360"
+  },
+  {
+    "case_id": "triage_hf_0092",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 92"
+  },
+  {
+    "case_id": "triage_hf_0382",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 382"
+  },
+  {
+    "case_id": "triage_hf_0087",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 87"
+  },
+  {
+    "case_id": "triage_hf_0649",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 649"
+  },
+  {
+    "case_id": "triage_hf_0337",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 337"
+  },
+  {
+    "case_id": "triage_hf_0213",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 213"
+  },
+  {
+    "case_id": "triage_hf_0152",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 152"
+  },
+  {
+    "case_id": "triage_hf_0629",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 629"
+  },
+  {
+    "case_id": "triage_hf_0341",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 341"
+  },
+  {
+    "case_id": "triage_hf_0645",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 645"
+  },
+  {
+    "case_id": "triage_hf_0156",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 156"
+  },
+  {
+    "case_id": "sc_ncdrc_2023_331a0a",
+    "gold_legal_issues": [
+      "Whether taking an insurance policy for indemnification against loss qualifies as a 'commercial purpose' excluding the policyholder from being a Consumer?",
+      "Whether arbitrary claim repudiation by an insurance company constitutes Deficiency in Service?"
+    ],
+    "gold_legal_provisions": [
+      "Section 2(7)",
+      "Section 2(11)"
+    ],
+    "gold_outcome": "ALLOWED",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "Supreme Court of India",
+    "gold_case_citation": "National Insurance Co. Ltd. vs. Harsolia Motors"
+  },
+  {
+    "case_id": "triage_hf_0277",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 277"
+  },
+  {
+    "case_id": "triage_hf_0596",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 596"
+  },
+  {
+    "case_id": "triage_hf_0452",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 452"
+  },
+  {
+    "case_id": "triage_hf_0218",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 218"
+  },
+  {
+    "case_id": "triage_hf_0422",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 422"
+  },
+  {
+    "case_id": "triage_hf_0648",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 648"
+  },
+  {
+    "case_id": "triage_hf_0196",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 196"
+  },
+  {
+    "case_id": "triage_hf_0567",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 567"
+  },
+  {
+    "case_id": "triage_hf_0020",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 20"
+  },
+  {
+    "case_id": "triage_hf_0609",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 609"
+  },
+  {
+    "case_id": "triage_hf_0510",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 510"
+  },
+  {
+    "case_id": "triage_hf_0231",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 231"
+  },
+  {
+    "case_id": "triage_hf_0216",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 216"
+  },
+  {
+    "case_id": "triage_hf_0088",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 88"
+  },
+  {
+    "case_id": "triage_hf_0023",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 23"
+  },
+  {
+    "case_id": "triage_hf_0025",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 25"
+  },
+  {
+    "case_id": "triage_hf_0425",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 425"
+  },
+  {
+    "case_id": "triage_hf_0597",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 597"
+  },
+  {
+    "case_id": "triage_hf_0082",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 82"
+  },
+  {
+    "case_id": "triage_hf_0551",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 551"
+  },
+  {
+    "case_id": "triage_hf_0097",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 97"
+  },
+  {
+    "case_id": "triage_hf_0135",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 135"
+  },
+  {
+    "case_id": "triage_hf_0221",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 221"
+  },
+  {
+    "case_id": "triage_hf_0243",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 243"
+  },
+  {
+    "case_id": "triage_hf_0274",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 274"
+  },
+  {
+    "case_id": "triage_hf_0018",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 18"
+  },
+  {
+    "case_id": "triage_hf_0107",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 107"
+  },
+  {
+    "case_id": "triage_hf_0647",
+    "gold_legal_issues": [
+      "consumer"
+    ],
+    "gold_legal_provisions": [
+      "Consumer Protection Act, 2019",
+      "Section 2(11)",
+      "Section 35"
+    ],
+    "gold_outcome": "Inconclusive",
+    "gold_supporting_evidence": [
+      "Purchase Receipt / Billing Invoice",
+      "Inspection Report / Communication Transcripts"
+    ],
+    "gold_court": "District / State Consumer Disputes Redressal Commission",
+    "gold_case_citation": "Consumer Triage Case 647"
+  }
+]

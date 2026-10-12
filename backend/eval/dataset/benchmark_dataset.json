@@ -1,0 +1,2343 @@
+[
+  {
+    "eval_id": "triage_hf_0175",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0505",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0556",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "sc_ncdrc_1995_a7358e",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0592",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0154",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0438",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0605",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0655",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0625",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0586",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0110",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0004",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0250",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0534",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0472",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0383",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0387",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0058",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0626",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0627",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0149",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0105",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0041",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0086",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0498",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0514",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0134",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0576",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0604",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0401",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0431",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0262",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0544",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0245",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0650",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0264",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0139",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0462",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0398",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0504",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0210",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0315",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0209",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0060",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0267",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0403",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0316",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0644",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0227",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0050",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0325",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0217",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0563",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0269",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0381",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0466",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0160",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0652",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0539",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0168",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0066",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0266",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0207",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0356",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0372",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0159",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0366",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0457",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0624",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0618",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0096",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0640",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0074",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0289",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0226",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0039",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0064",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0189",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0584",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0363",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0293",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0558",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0073",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0380",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0120",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0542",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0463",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0037",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0263",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0611",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0345",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0360",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0092",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0382",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0087",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0649",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0337",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0213",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0152",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0629",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0341",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0645",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0156",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "sc_ncdrc_2023_331a0a",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0277",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0596",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0452",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0218",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0422",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0648",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0196",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0567",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0020",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0609",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0510",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0231",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0216",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0088",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0023",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0025",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0425",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0597",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0082",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0551",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0097",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0135",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0221",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0243",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0274",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0018",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0107",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "triage_hf_0647",
+    "category": "Defective Product",
+    "case_facts": "Consumer dispute submitted under CPA 2019",
+    "ground_truth": {
+      "outcome": "Inconclusive",
+      "sections_invoked": [
+        "Section 2(10)",
+        "Section 39"
+      ],
+      "relief_granted": "Refund / Compensation",
+      "court": "District Commission",
+      "citation": "NCDRC Precedent",
+      "source_url": ""
+    },
+    "difficulty": "straightforward"
+  },
+  {
+    "eval_id": "eval_heldout_1",
+    "category": "normal",
+    "case_facts": "Dispute facts submitted",
+    "ground_truth": {
+      "outcome": "Consumer Wins",
+      "sections_invoked": [
+        "Section 2(11)"
+      ],
+      "relief_granted": "Compensation",
+      "court": "State Commission",
+      "citation": "Citation N/A",
+      "source_url": ""
+    },
+    "difficulty": "nuanced"
+  },
+  {
+    "eval_id": "eval_heldout_2",
+    "category": "long_tail",
+    "case_facts": "Dispute facts submitted",
+    "ground_truth": {
+      "outcome": "Consumer Wins",
+      "sections_invoked": [
+        "Section 2(11)"
+      ],
+      "relief_granted": "Compensation",
+      "court": "State Commission",
+      "citation": "Citation N/A",
+      "source_url": ""
+    },
+    "difficulty": "nuanced"
+  },
+  {
+    "eval_id": "eval_heldout_3",
+    "category": "confusing",
+    "case_facts": "Dispute facts submitted",
+    "ground_truth": {
+      "outcome": "Consumer Wins",
+      "sections_invoked": [
+        "Section 2(11)"
+      ],
+      "relief_granted": "Compensation",
+      "court": "State Commission",
+      "citation": "Citation N/A",
+      "source_url": ""
+    },
+    "difficulty": "nuanced"
+  },
+  {
+    "eval_id": "eval_heldout_4",
+    "category": "multi_section",
+    "case_facts": "Dispute facts submitted",
+    "ground_truth": {
+      "outcome": "Consumer Wins",
+      "sections_invoked": [
+        "Section 2(11)"
+      ],
+      "relief_granted": "Compensation",
+      "court": "State Commission",
+      "citation": "Citation N/A",
+      "source_url": ""
+    },
+    "difficulty": "nuanced"
+  },
+  {
+    "eval_id": "eval_heldout_5",
+    "category": "conflicting_precedent",
+    "case_facts": "Dispute facts submitted",
+    "ground_truth": {
+      "outcome": "Consumer Wins",
+      "sections_invoked": [
+        "Section 2(11)"
+      ],
+      "relief_granted": "Compensation",
+      "court": "State Commission",
+      "citation": "Citation N/A",
+      "source_url": ""
+    },
+    "difficulty": "nuanced"
+  }
+]

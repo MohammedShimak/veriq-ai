@@ -1,0 +1,45 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "normalize": "node data/normalize.js",
+    "rechunk": "node data/rechunk.js",
+    "reembed": "node data/embedAndStoreFAISS.js",
+    "rebuild-data": "node data/rebuildData.js",
+    "verify:module-a": "node scripts/verifyModuleA.js",
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js --testTimeout=30000",
+    "eval:build-dataset": "node eval/datasetBuilder.js",
+    "eval:baseline": "node eval/baselineRunner.js",
+    "eval:lexagent": "node eval/lexagentRunner.js",
+    "eval:ablation": "node eval/ablationRunner.js",
+    "eval:metrics": "node eval/generateReport.js",
+    "eval:full": "npm run eval:build-dataset && npm run eval:baseline && npm run eval:lexagent && npm run eval:ablation && npm run eval:metrics"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "@langchain/community": "^1.1.29",
+    "@langchain/core": "^1.2.4",
+    "@langchain/google-genai": "^2.2.0",
+    "ajv": "^8.17.1",
+    "bcryptjs": "^3.0.3",
+    "chromadb": "^3.5.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.4.2",
+    "express": "^5.1.0",
+    "express-rate-limit": "^8.7.0",
+    "faiss-node": "^0.5.1",
+    "jsonwebtoken": "^9.0.2",
+    "langchain": "^1.5.4",
+    "mongoose": "^9.9.3",
+    "pdf-parse": "^2.4.5",
+    "pdfkit": "^0.20.1"
+  },
+  "devDependencies": {
+    "jest": "^30.3.0",
+    "nodemon": "^3.1.10"
+  }
+}

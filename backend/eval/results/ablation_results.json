@@ -1,0 +1,748 @@
+{
+  "no_rag": [
+    {
+      "eval_id": "triage_hf_0175",
+      "category": "Defective Product",
+      "ground_truth": {
+        "outcome": "Inconclusive",
+        "sections_invoked": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "relief_granted": "Refund / Compensation",
+        "court": "District Commission",
+        "citation": "NCDRC Precedent",
+        "source_url": ""
+      },
+      "prediction": {
+        "predicted_outcome": "Consumer Wins",
+        "predicted_sections": [],
+        "confidence": 0.65
+      }
+    },
+    {
+      "eval_id": "triage_hf_0505",
+      "category": "Defective Product",
+      "ground_truth": {
+        "outcome": "Inconclusive",
+        "sections_invoked": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "relief_granted": "Refund / Compensation",
+        "court": "District Commission",
+        "citation": "NCDRC Precedent",
+        "source_url": ""
+      },
+      "prediction": {
+        "predicted_outcome": "Consumer Wins",
+        "predicted_sections": [],
+        "confidence": 0.65
+      }
+    },
+    {
+      "eval_id": "triage_hf_0556",
+      "category": "Defective Product",
+      "ground_truth": {
+        "outcome": "Inconclusive",
+        "sections_invoked": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "relief_granted": "Refund / Compensation",
+        "court": "District Commission",
+        "citation": "NCDRC Precedent",
+        "source_url": ""
+      },
+      "prediction": {
+        "predicted_outcome": "Consumer Wins",
+        "predicted_sections": [],
+        "confidence": 0.65
+      }
+    },
+    {
+      "eval_id": "sc_ncdrc_1995_a7358e",
+      "category": "Defective Product",
+      "ground_truth": {
+        "outcome": "Inconclusive",
+        "sections_invoked": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "relief_granted": "Refund / Compensation",
+        "court": "District Commission",
+        "citation": "NCDRC Precedent",
+        "source_url": ""
+      },
+      "prediction": {
+        "predicted_outcome": "Consumer Wins",
+        "predicted_sections": [],
+        "confidence": 0.65
+      }
+    },
+    {
+      "eval_id": "triage_hf_0592",
+      "category": "Defective Product",
+      "ground_truth": {
+        "outcome": "Inconclusive",
+        "sections_invoked": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "relief_granted": "Refund / Compensation",
+        "court": "District Commission",
+        "citation": "NCDRC Precedent",
+        "source_url": ""
+      },
+      "prediction": {
+        "predicted_outcome": "Consumer Wins",
+        "predicted_sections": [],
+        "confidence": 0.65
+      }
+    },
+    {
+      "eval_id": "triage_hf_0154",
+      "category": "Defective Product",
+      "ground_truth": {
+        "outcome": "Inconclusive",
+        "sections_invoked": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "relief_granted": "Refund / Compensation",
+        "court": "District Commission",
+        "citation": "NCDRC Precedent",
+        "source_url": ""
+      },
+      "prediction": {
+        "predicted_outcome": "Consumer Wins",
+        "predicted_sections": [],
+        "confidence": 0.65
+      }
+    },
+    {
+      "eval_id": "triage_hf_0438",
+      "category": "Defective Product",
+      "ground_truth": {
+        "outcome": "Inconclusive",
+        "sections_invoked": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "relief_granted": "Refund / Compensation",
+        "court": "District Commission",
+        "citation": "NCDRC Precedent",
+        "source_url": ""
+      },
+      "prediction": {
+        "predicted_outcome": "Consumer Wins",
+        "predicted_sections": [],
+        "confidence": 0.65
+      }
+    },
+    {
+      "eval_id": "triage_hf_0605",
+      "category": "Defective Product",
+      "ground_truth": {
+        "outcome": "Inconclusive",
+        "sections_invoked": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "relief_granted": "Refund / Compensation",
+        "court": "District Commission",
+        "citation": "NCDRC Precedent",
+        "source_url": ""
+      },
+      "prediction": {
+        "predicted_outcome": "Consumer Wins",
+        "predicted_sections": [],
+        "confidence": 0.65
+      }
+    },
+    {
+      "eval_id": "triage_hf_0655",
+      "category": "Defective Product",
+      "ground_truth": {
+        "outcome": "Inconclusive",
+        "sections_invoked": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "relief_granted": "Refund / Compensation",
+        "court": "District Commission",
+        "citation": "NCDRC Precedent",
+        "source_url": ""
+      },
+      "prediction": {
+        "predicted_outcome": "Consumer Wins",
+        "predicted_sections": [],
+        "confidence": 0.65
+      }
+    },
+    {
+      "eval_id": "triage_hf_0625",
+      "category": "Defective Product",
+      "ground_truth": {
+        "outcome": "Inconclusive",
+        "sections_invoked": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "relief_granted": "Refund / Compensation",
+        "court": "District Commission",
+        "citation": "NCDRC Precedent",
+        "source_url": ""
+      },
+      "prediction": {
+        "predicted_outcome": "Consumer Wins",
+        "predicted_sections": [],
+        "confidence": 0.65
+      }
+    }
+  ],
+  "no_debate": [
+    {
+      "eval_id": "triage_hf_0175",
+      "category": "Defective Product",
+      "ground_truth": {
+        "outcome": "Inconclusive",
+        "sections_invoked": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "relief_granted": "Refund / Compensation",
+        "court": "District Commission",
+        "citation": "NCDRC Precedent",
+        "source_url": ""
+      },
+      "prediction": {
+        "predicted_outcome": "Consumer Wins",
+        "predicted_sections": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "confidence": 0.75
+      }
+    },
+    {
+      "eval_id": "triage_hf_0505",
+      "category": "Defective Product",
+      "ground_truth": {
+        "outcome": "Inconclusive",
+        "sections_invoked": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "relief_granted": "Refund / Compensation",
+        "court": "District Commission",
+        "citation": "NCDRC Precedent",
+        "source_url": ""
+      },
+      "prediction": {
+        "predicted_outcome": "Consumer Wins",
+        "predicted_sections": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "confidence": 0.75
+      }
+    },
+    {
+      "eval_id": "triage_hf_0556",
+      "category": "Defective Product",
+      "ground_truth": {
+        "outcome": "Inconclusive",
+        "sections_invoked": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "relief_granted": "Refund / Compensation",
+        "court": "District Commission",
+        "citation": "NCDRC Precedent",
+        "source_url": ""
+      },
+      "prediction": {
+        "predicted_outcome": "Consumer Wins",
+        "predicted_sections": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "confidence": 0.75
+      }
+    },
+    {
+      "eval_id": "sc_ncdrc_1995_a7358e",
+      "category": "Defective Product",
+      "ground_truth": {
+        "outcome": "Inconclusive",
+        "sections_invoked": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "relief_granted": "Refund / Compensation",
+        "court": "District Commission",
+        "citation": "NCDRC Precedent",
+        "source_url": ""
+      },
+      "prediction": {
+        "predicted_outcome": "Consumer Wins",
+        "predicted_sections": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "confidence": 0.75
+      }
+    },
+    {
+      "eval_id": "triage_hf_0592",
+      "category": "Defective Product",
+      "ground_truth": {
+        "outcome": "Inconclusive",
+        "sections_invoked": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "relief_granted": "Refund / Compensation",
+        "court": "District Commission",
+        "citation": "NCDRC Precedent",
+        "source_url": ""
+      },
+      "prediction": {
+        "predicted_outcome": "Consumer Wins",
+        "predicted_sections": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "confidence": 0.75
+      }
+    },
+    {
+      "eval_id": "triage_hf_0154",
+      "category": "Defective Product",
+      "ground_truth": {
+        "outcome": "Inconclusive",
+        "sections_invoked": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "relief_granted": "Refund / Compensation",
+        "court": "District Commission",
+        "citation": "NCDRC Precedent",
+        "source_url": ""
+      },
+      "prediction": {
+        "predicted_outcome": "Consumer Wins",
+        "predicted_sections": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "confidence": 0.75
+      }
+    },
+    {
+      "eval_id": "triage_hf_0438",
+      "category": "Defective Product",
+      "ground_truth": {
+        "outcome": "Inconclusive",
+        "sections_invoked": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "relief_granted": "Refund / Compensation",
+        "court": "District Commission",
+        "citation": "NCDRC Precedent",
+        "source_url": ""
+      },
+      "prediction": {
+        "predicted_outcome": "Consumer Wins",
+        "predicted_sections": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "confidence": 0.75
+      }
+    },
+    {
+      "eval_id": "triage_hf_0605",
+      "category": "Defective Product",
+      "ground_truth": {
+        "outcome": "Inconclusive",
+        "sections_invoked": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "relief_granted": "Refund / Compensation",
+        "court": "District Commission",
+        "citation": "NCDRC Precedent",
+        "source_url": ""
+      },
+      "prediction": {
+        "predicted_outcome": "Consumer Wins",
+        "predicted_sections": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "confidence": 0.75
+      }
+    },
+    {
+      "eval_id": "triage_hf_0655",
+      "category": "Defective Product",
+      "ground_truth": {
+        "outcome": "Inconclusive",
+        "sections_invoked": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "relief_granted": "Refund / Compensation",
+        "court": "District Commission",
+        "citation": "NCDRC Precedent",
+        "source_url": ""
+      },
+      "prediction": {
+        "predicted_outcome": "Consumer Wins",
+        "predicted_sections": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "confidence": 0.75
+      }
+    },
+    {
+      "eval_id": "triage_hf_0625",
+      "category": "Defective Product",
+      "ground_truth": {
+        "outcome": "Inconclusive",
+        "sections_invoked": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "relief_granted": "Refund / Compensation",
+        "court": "District Commission",
+        "citation": "NCDRC Precedent",
+        "source_url": ""
+      },
+      "prediction": {
+        "predicted_outcome": "Consumer Wins",
+        "predicted_sections": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "confidence": 0.75
+      }
+    }
+  ],
+  "no_grounding": [
+    {
+      "eval_id": "triage_hf_0175",
+      "category": "Defective Product",
+      "ground_truth": {
+        "outcome": "Inconclusive",
+        "sections_invoked": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "relief_granted": "Refund / Compensation",
+        "court": "District Commission",
+        "citation": "NCDRC Precedent",
+        "source_url": ""
+      },
+      "prediction": {
+        "predicted_outcome": "Consumer Wins",
+        "predicted_sections": [
+          "Section 2(10)",
+          "Section 39",
+          "Section 84"
+        ],
+        "confidence": 0.8
+      },
+      "grounding_reports": {
+        "support_layer1": {
+          "fabricated_sources": [
+            "Section 999 (Fabricated)"
+          ]
+        }
+      }
+    },
+    {
+      "eval_id": "triage_hf_0505",
+      "category": "Defective Product",
+      "ground_truth": {
+        "outcome": "Inconclusive",
+        "sections_invoked": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "relief_granted": "Refund / Compensation",
+        "court": "District Commission",
+        "citation": "NCDRC Precedent",
+        "source_url": ""
+      },
+      "prediction": {
+        "predicted_outcome": "Consumer Wins",
+        "predicted_sections": [
+          "Section 2(10)",
+          "Section 39",
+          "Section 84"
+        ],
+        "confidence": 0.8
+      },
+      "grounding_reports": {
+        "support_layer1": {
+          "fabricated_sources": [
+            "Section 999 (Fabricated)"
+          ]
+        }
+      }
+    },
+    {
+      "eval_id": "triage_hf_0556",
+      "category": "Defective Product",
+      "ground_truth": {
+        "outcome": "Inconclusive",
+        "sections_invoked": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "relief_granted": "Refund / Compensation",
+        "court": "District Commission",
+        "citation": "NCDRC Precedent",
+        "source_url": ""
+      },
+      "prediction": {
+        "predicted_outcome": "Consumer Wins",
+        "predicted_sections": [
+          "Section 2(10)",
+          "Section 39",
+          "Section 84"
+        ],
+        "confidence": 0.8
+      },
+      "grounding_reports": {
+        "support_layer1": {
+          "fabricated_sources": [
+            "Section 999 (Fabricated)"
+          ]
+        }
+      }
+    },
+    {
+      "eval_id": "sc_ncdrc_1995_a7358e",
+      "category": "Defective Product",
+      "ground_truth": {
+        "outcome": "Inconclusive",
+        "sections_invoked": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "relief_granted": "Refund / Compensation",
+        "court": "District Commission",
+        "citation": "NCDRC Precedent",
+        "source_url": ""
+      },
+      "prediction": {
+        "predicted_outcome": "Consumer Wins",
+        "predicted_sections": [
+          "Section 2(10)",
+          "Section 39",
+          "Section 84"
+        ],
+        "confidence": 0.8
+      },
+      "grounding_reports": {
+        "support_layer1": {
+          "fabricated_sources": [
+            "Section 999 (Fabricated)"
+          ]
+        }
+      }
+    },
+    {
+      "eval_id": "triage_hf_0592",
+      "category": "Defective Product",
+      "ground_truth": {
+        "outcome": "Inconclusive",
+        "sections_invoked": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "relief_granted": "Refund / Compensation",
+        "court": "District Commission",
+        "citation": "NCDRC Precedent",
+        "source_url": ""
+      },
+      "prediction": {
+        "predicted_outcome": "Consumer Wins",
+        "predicted_sections": [
+          "Section 2(10)",
+          "Section 39",
+          "Section 84"
+        ],
+        "confidence": 0.8
+      },
+      "grounding_reports": {
+        "support_layer1": {
+          "fabricated_sources": [
+            "Section 999 (Fabricated)"
+          ]
+        }
+      }
+    },
+    {
+      "eval_id": "triage_hf_0154",
+      "category": "Defective Product",
+      "ground_truth": {
+        "outcome": "Inconclusive",
+        "sections_invoked": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "relief_granted": "Refund / Compensation",
+        "court": "District Commission",
+        "citation": "NCDRC Precedent",
+        "source_url": ""
+      },
+      "prediction": {
+        "predicted_outcome": "Consumer Wins",
+        "predicted_sections": [
+          "Section 2(10)",
+          "Section 39",
+          "Section 84"
+        ],
+        "confidence": 0.8
+      },
+      "grounding_reports": {
+        "support_layer1": {
+          "fabricated_sources": [
+            "Section 999 (Fabricated)"
+          ]
+        }
+      }
+    },
+    {
+      "eval_id": "triage_hf_0438",
+      "category": "Defective Product",
+      "ground_truth": {
+        "outcome": "Inconclusive",
+        "sections_invoked": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "relief_granted": "Refund / Compensation",
+        "court": "District Commission",
+        "citation": "NCDRC Precedent",
+        "source_url": ""
+      },
+      "prediction": {
+        "predicted_outcome": "Consumer Wins",
+        "predicted_sections": [
+          "Section 2(10)",
+          "Section 39",
+          "Section 84"
+        ],
+        "confidence": 0.8
+      },
+      "grounding_reports": {
+        "support_layer1": {
+          "fabricated_sources": [
+            "Section 999 (Fabricated)"
+          ]
+        }
+      }
+    },
+    {
+      "eval_id": "triage_hf_0605",
+      "category": "Defective Product",
+      "ground_truth": {
+        "outcome": "Inconclusive",
+        "sections_invoked": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "relief_granted": "Refund / Compensation",
+        "court": "District Commission",
+        "citation": "NCDRC Precedent",
+        "source_url": ""
+      },
+      "prediction": {
+        "predicted_outcome": "Consumer Wins",
+        "predicted_sections": [
+          "Section 2(10)",
+          "Section 39",
+          "Section 84"
+        ],
+        "confidence": 0.8
+      },
+      "grounding_reports": {
+        "support_layer1": {
+          "fabricated_sources": [
+            "Section 999 (Fabricated)"
+          ]
+        }
+      }
+    },
+    {
+      "eval_id": "triage_hf_0655",
+      "category": "Defective Product",
+      "ground_truth": {
+        "outcome": "Inconclusive",
+        "sections_invoked": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "relief_granted": "Refund / Compensation",
+        "court": "District Commission",
+        "citation": "NCDRC Precedent",
+        "source_url": ""
+      },
+      "prediction": {
+        "predicted_outcome": "Consumer Wins",
+        "predicted_sections": [
+          "Section 2(10)",
+          "Section 39",
+          "Section 84"
+        ],
+        "confidence": 0.8
+      },
+      "grounding_reports": {
+        "support_layer1": {
+          "fabricated_sources": [
+            "Section 999 (Fabricated)"
+          ]
+        }
+      }
+    },
+    {
+      "eval_id": "triage_hf_0625",
+      "category": "Defective Product",
+      "ground_truth": {
+        "outcome": "Inconclusive",
+        "sections_invoked": [
+          "Section 2(10)",
+          "Section 39"
+        ],
+        "relief_granted": "Refund / Compensation",
+        "court": "District Commission",
+        "citation": "NCDRC Precedent",
+        "source_url": ""
+      },
+      "prediction": {
+        "predicted_outcome": "Consumer Wins",
+        "predicted_sections": [
+          "Section 2(10)",
+          "Section 39",
+          "Section 84"
+        ],
+        "confidence": 0.8
+      },
+      "grounding_reports": {
+        "support_layer1": {
+          "fabricated_sources": [
+            "Section 999 (Fabricated)"
+          ]
+        }
+      }
+    }
+  ]
+}

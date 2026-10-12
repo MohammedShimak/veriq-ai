@@ -1,0 +1,59 @@
+[
+  {
+    "id": "bench_001",
+    "category": "normal",
+    "class_frequency": "head",
+    "case_text": "A consumer purchased a newly manufactured television that experienced panel failure within 3 days of installation. The brand service center refused to replace or refund.",
+    "gold_sections": ["Section 2(10)", "Section 39"],
+    "gold_issues": ["Manufacturing defect under Section 2(10)", "Statutory remedy under Section 39"],
+    "gold_outcome": "Allowed",
+    "gold_precedents": ["Tata Motors Ltd. vs. Antonio Paulo Vaz"],
+    "evidence": ["Purchase Invoice", "Service Center Job Cards"]
+  },
+  {
+    "id": "bench_002",
+    "category": "long_tail",
+    "class_frequency": "tail",
+    "case_text": "A direct selling company forced a distributor to buy non-refundable ₹50,000 product inventory without offering a mandatory 30-day cooling-off exit period.",
+    "gold_sections": ["Section 2(47)"],
+    "gold_rules": ["Rule 5 & 6 Consumer Protection (Direct Selling) Rules, 2021"],
+    "gold_issues": ["Pyramid inventory forcing and refusal of mandatory cooling-off refund"],
+    "gold_outcome": "Allowed",
+    "gold_precedents": ["Amazon Seller Services Pvt. Ltd. vs. Vishwajit Singh"],
+    "evidence": ["Inventory Order Memo", "Cooling-off refusal email"]
+  },
+  {
+    "id": "bench_003",
+    "category": "confusing",
+    "class_frequency": "medium",
+    "case_text": "A small business owner purchased a commercial fire insurance policy to protect their workshop. When a fire broke out, the insurance company denied the claim stating it was for commercial profit.",
+    "gold_sections": ["Section 2(7)", "Section 2(11)"],
+    "gold_issues": ["Commercial purpose exclusion applicability to insurance indemnity"],
+    "gold_outcome": "Allowed",
+    "gold_precedents": ["National Insurance Co. Ltd. vs. Harsolia Motors"],
+    "evidence": ["Fire Insurance Policy Schedule", "Surveyor Report"]
+  },
+  {
+    "id": "bench_004",
+    "category": "multi_section",
+    "class_frequency": "head",
+    "case_text": "An online e-commerce platform delivered a defective laptop battery that exploded during charging. The platform disowned responsibility citing third-party seller status.",
+    "gold_sections": ["Section 2(47)", "Section 84", "Section 86"],
+    "gold_rules": ["Rule 4 & Rule 6 Consumer Protection (E-Commerce) Rules, 2020"],
+    "gold_issues": ["Marketplace e-commerce platform liability and product seller liability"],
+    "gold_outcome": "Allowed",
+    "gold_precedents": ["Amazon Seller Services Pvt. Ltd. vs. Vishwajit Singh"],
+    "evidence": ["Order Confirmation", "Unboxing Video", "Medical Injury Record"]
+  },
+  {
+    "id": "bench_005",
+    "category": "conflicting_precedent",
+    "class_frequency": "medium",
+    "case_text": "A student enrolled in a 2-year coaching institute left after 1 month due to unsatisfactory faculty. The institute cited a signed non-refundable fee agreement.",
+    "gold_sections": ["Section 2(46)", "Section 2(47)"],
+    "gold_issues": ["Unfair contract terms and pro-rata fee refund"],
+    "gold_outcome": "Allowed",
+    "gold_precedents": ["FIITJEE Ltd. vs. Minathi Rath"],
+    "evidence": ["Fee Receipts", "Withdrawal Letter submitted within 30 days"]
+  }
+]

@@ -1,0 +1,226 @@
+/* ============================================================ */
+/* VERIQ BRANDED LOADING EXPERIENCE STYLES                       */
+/* Clean, Accessible, Restrained, Non-Distorting Animations      */
+/* ============================================================ */
+
+.veriq-loader-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+/* Page Variant */
+.veriq-loader-page {
+  padding: 48px 24px;
+  width: 100%;
+  max-width: 560px;
+  margin: 0 auto;
+}
+
+/* Card Variant */
+.veriq-loader-card {
+  padding: 32px 24px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+  width: 100%;
+  box-sizing: border-box;
+  margin: 16px 0;
+}
+
+/* Brand Wrapper */
+.veriq-loader-brand-wrapper {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.veriq-loader-logo-frame {
+  position: relative;
+  z-index: 2;
+  padding: 6px 12px;
+  background: #ffffff;
+  border-radius: 8px;
+  border: 1px solid rgba(39, 133, 216, 0.35);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.15);
+  transition: transform 0.3s ease;
+}
+
+/* Restrained ambient pulse behind frame */
+.veriq-loader-aura {
+  position: absolute;
+  inset: -6px;
+  border-radius: 12px;
+  background: radial-gradient(circle, rgba(39, 133, 216, 0.25) 0%, transparent 70%);
+  z-index: 1;
+  animation: veriqAuraPulse 2.8s ease-in-out infinite;
+}
+
+/* Orbital Accent Ring (surrounds frame smoothly without rotating the logo) */
+.veriq-loader-orbital-ring {
+  position: absolute;
+  inset: -4px;
+  border-radius: 10px;
+  border: 1.5px solid transparent;
+  border-top-color: var(--veriq-blue);
+  border-right-color: rgba(39, 133, 216, 0.3);
+  z-index: 3;
+  animation: veriqOrbitalSpin 2.4s linear infinite;
+  pointer-events: none;
+}
+
+/* Progress Track & Shimmer Bar */
+.veriq-loader-progress-track {
+  width: 140px;
+  height: 3px;
+  background-color: var(--line);
+  border-radius: 9999px;
+  overflow: hidden;
+  margin-bottom: 16px;
+  position: relative;
+}
+
+.veriq-loader-progress-bar {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 40%;
+  background: linear-gradient(90deg, rgba(39, 133, 216, 0.2) 0%, var(--veriq-blue) 50%, rgba(39, 133, 216, 0.2) 100%);
+  border-radius: 9999px;
+  animation: veriqProgressGlide 1.8s ease-in-out infinite;
+}
+
+/* Text Group */
+.veriq-loader-text-group {
+  max-width: 480px;
+  margin: 0 auto;
+}
+
+.veriq-loader-title {
+  margin: 0 0 6px 0;
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--ink);
+  letter-spacing: -0.01em;
+}
+
+.veriq-loader-submessage {
+  margin: 0;
+  font-size: 0.82rem;
+  color: var(--ink-muted);
+  line-height: 1.55;
+}
+
+/* Inline Variant */
+.veriq-loader-inline {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.85rem;
+  color: var(--ink-muted);
+}
+
+.veriq-spinner-ring-small {
+  width: 14px;
+  height: 14px;
+  border: 2px solid var(--line);
+  border-top-color: var(--veriq-blue);
+  border-radius: 50%;
+  animation: veriqOrbitalSpin 0.8s linear infinite;
+  flex-shrink: 0;
+}
+
+.veriq-loader-inline-text {
+  font-size: 0.84rem;
+  font-weight: 500;
+}
+
+/* Error State */
+.veriq-loader-error {
+  border-color: rgba(225, 29, 72, 0.3);
+  background: rgba(225, 29, 72, 0.04);
+}
+
+.veriq-loader-error-icon {
+  font-size: 1.8rem;
+  margin-bottom: 8px;
+}
+
+.veriq-loader-error-title {
+  color: #e11d48;
+  font-size: 1rem;
+  margin: 0 0 4px 0;
+}
+
+.veriq-loader-error-desc {
+  color: var(--ink-muted);
+  font-size: 0.82rem;
+  margin: 0;
+}
+
+/* Keyframe Animations */
+@keyframes veriqAuraPulse {
+  0%, 100% {
+    transform: scale(0.96);
+    opacity: 0.4;
+  }
+  50% {
+    transform: scale(1.08);
+    opacity: 0.85;
+  }
+}
+
+@keyframes veriqOrbitalSpin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes veriqProgressGlide {
+  0% {
+    left: -40%;
+  }
+  50% {
+    left: 40%;
+  }
+  100% {
+    left: 100%;
+  }
+}
+
+/* Screen Reader Only Utility */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+/* Accessibility: Respect Reduced-Motion Preference */
+@media (prefers-reduced-motion: reduce) {
+  .veriq-loader-aura,
+  .veriq-loader-orbital-ring,
+  .veriq-loader-progress-bar,
+  .veriq-spinner-ring-small {
+    animation: none !important;
+  }
+
+  .veriq-loader-progress-bar {
+    left: 30% !important;
+    width: 40% !important;
+  }
+}

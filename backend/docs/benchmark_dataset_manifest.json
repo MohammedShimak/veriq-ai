@@ -1,0 +1,19 @@
+{
+  "pipeline": "LexAgent Expanded Consumer Law Benchmark Collection & Deduplication Pipeline",
+  "timestamp": "2026-08-22T04:35:00Z",
+  "seed": 42,
+  "total_raw_cases_collected": 14181,
+  "total_consumer_relevant_cases": 1413,
+  "exact_duplicates_removed": 749,
+  "near_duplicates_removed": 0,
+  "final_unique_consumer_cases": 664,
+  "rag_corpus_count": 531,
+  "eval_set_count": 133,
+  "exact_leakage_overlap": 0,
+  "near_duplicate_leakage_overlap": 0,
+  "sources_breakdown": {
+    "Supreme Court & NCDRC Landmark Precedents": 8,
+    "High Court & Case Law Decisions": 0,
+    "Secondary Legal QA & Triage": 656
+  }
+}
