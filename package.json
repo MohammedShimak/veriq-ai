@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Thejasrini/Legal_debate_system.git"
+    "url": "git+https://github.com/MohammedShimak/veriq-ai.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/Thejasrini/Legal_debate_system/issues"
+    "url": "https://github.com/MohammedShimak/veriq-ai/issues"
   },
-  "homepage": "https://github.com/Thejasrini/Legal_debate_system#readme"
+  "homepage": "https://github.com/MohammedShimak/veriq-ai#readme"
 }
